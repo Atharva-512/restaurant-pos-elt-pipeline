@@ -33,7 +33,7 @@ from typing import Dict
 logger = logging.getLogger(__name__)
 
 # Default location of the metadata file: <project_root>/metadata/processed_files.json
-DEFAULT_METADATA_PATH = Path("metadata") / "processed_files.json"
+DEFAULT_METADATA_PATH = Path("data") / "metadata" / "processed_files.json"
 
 # Chunk size used when streaming a file for hashing (1 MB).
 _HASH_CHUNK_SIZE = 1024 * 1024
