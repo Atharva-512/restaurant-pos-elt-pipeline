@@ -1,0 +1,42 @@
+{
+    "KOT_Itemwise_Process_Time_2026_06_29_11_45_43.xlsx": {
+        "hash": "9ada8bb93e802c3b119cada7b78991c0a17a9a1d75c72773f42a09acb9d7cb35",
+        "processed_time": "2026-07-01T10:27:49.160911+00:00"
+    },
+    "KOT_Itemwise_Process_Time_2026_06_29_11_46_12.xlsx": {
+        "hash": "91d2c5623ffc28fa9e5dfb874aa62a6dbb184c8874bcf567a4aa6f0b12465b1e",
+        "processed_time": "2026-07-01T10:27:49.185232+00:00"
+    },
+    "KOT_Itemwise_Process_Time_2026_06_29_11_46_37.xlsx": {
+        "hash": "c9c62c9ec721447cc60c6ef98598d7005643d49ad208c6d4996b2669f6ed9d50",
+        "processed_time": "2026-07-01T10:27:49.200840+00:00"
+    },
+    "KOT_Itemwise_Process_Time_2026_06_29_11_47_06.xlsx": {
+        "hash": "5cab0ae52a79911f39d76bd947fa1ed4f3fac9401ac4fc03c2476b0116c9fc55",
+        "processed_time": "2026-07-01T10:27:49.221020+00:00"
+    },
+    "KOT_Itemwise_Process_Time_2026_06_29_11_54_42.xlsx": {
+        "hash": "e338d24c6e0e795f965b32894a19a5e90dd8cf1013574e5925e7779749024da7",
+        "processed_time": "2026-07-01T10:27:49.246189+00:00"
+    },
+    "KOT_Itemwise_Process_Time_2026_06_29_12_54_52.xlsx": {
+        "hash": "8bfb033ac320e210b3ee0e0243f51e30f3bd0f45e46968bd4a8511aeb292de38",
+        "processed_time": "2026-07-01T10:27:49.263841+00:00"
+    },
+    "Order_Summary_Item_Report_2026-05.csv": {
+        "hash": "b725def6fa9ade2f9c9040444ea848d9fa500ccddd679082e17e0f54a626706c",
+        "processed_time": "2026-07-01T10:27:49.080972+00:00"
+    },
+    "Order_Summary_Item_Report_2026-06.csv": {
+        "hash": "d2c7fbd5c1e3e4e72adadc661e342f5ff7dbc64877ffd7fef68cae7cf7fb2cf0",
+        "processed_time": "2026-07-01T10:27:49.140119+00:00"
+    },
+    "Order_Summary_Report_2026-05.csv": {
+        "hash": "e7b72e4c60260745e2cdca712a628d4eac4271f2e6545fcab3a4f568990da188",
+        "processed_time": "2026-07-01T10:27:49.296570+00:00"
+    },
+    "Order_Summary_Report_2026-06.csv": {
+        "hash": "5e6941141771078300d2994691be9016bfa0f0cfb1b48808c8255223c35acfe2",
+        "processed_time": "2026-07-01T10:27:49.328663+00:00"
+    }
+}

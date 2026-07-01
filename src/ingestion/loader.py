@@ -27,7 +27,7 @@ from src.ingestion.excel_reader import ExcelReadError, read_excel_file
 logger = logging.getLogger(__name__)
 
 # Maps a supported file extension to the reader function responsible for it.
-READER_DISPATCH: Dict[str, Callable[[Path], pd.DataFrame]] = {
+READER_DISPATCH: Dict[str, List[tuple[Path, pd.DataFrame]]] = {
     ".csv": read_csv_file,
     ".xlsx": read_excel_file,
 }
@@ -99,7 +99,7 @@ def load_reports(discovered_files: Dict[str, List[Path]]) -> Dict[str, List[pd.D
 
     for report_name, file_paths in discovered_files.items():
         logger.info("Loading %d file(s) for report '%s'", len(file_paths), report_name)
-        dataframes: List[pd.DataFrame] = []
+        loaded_files: List[tuple[Path, pd.DataFrame]] = []
 
         for path in file_paths:
             try:
@@ -114,9 +114,9 @@ def load_reports(discovered_files: Dict[str, List[Path]]) -> Dict[str, List[pd.D
                 logger.error("Skipping unreadable file '%s': %s", path, exc)
                 continue
 
-            dataframes.append(dataframe)
+            loaded_files.append((path, dataframe))
 
-        loaded_reports[report_name] = dataframes
+        loaded_reports[report_name] = loaded_files
 
     total_loaded = sum(len(frames) for frames in loaded_reports.values())
     logger.info("Loading complete. %d file(s) successfully loaded.", total_loaded)
