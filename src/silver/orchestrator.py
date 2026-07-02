@@ -15,7 +15,9 @@ from src.silver.runner import run_silver_transformations
 from src.silver.writer import SILVER_ROOT, write_silver_data
 
 
-def run_silver_pipeline_stage() -> List[Path]:
+def run_silver_pipeline_stage(
+    written_files: List[Path] | None = None,
+) -> List[Path]:
     """
     Execute the full Silver pipeline stage.
 
@@ -31,7 +33,10 @@ def run_silver_pipeline_stage() -> List[Path]:
     """
     bronze_root = Path("data/bronze")
 
-    silver_data = run_silver_transformations(bronze_root)
+    silver_data = run_silver_transformations(
+    bronze_root=bronze_root,
+    written_files=written_files,
+)
 
     written_files = write_silver_data(silver_data)
 

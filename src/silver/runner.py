@@ -25,6 +25,7 @@ from src.transformation.pipeline import run_silver_pipeline
 
 def run_silver_transformations(
     bronze_root: Path,
+    written_files: list[Path] | None = None,
 ) -> dict[str, list[dict[str, Any]]]:
     """
     Execute the Silver Transformation Engine
@@ -42,8 +43,10 @@ def run_silver_transformations(
         DataFrames and metadata.
     """
 
-    bronze_data = load_bronze_data(bronze_root)
-
+    bronze_data = load_bronze_data(
+    bronze_root=bronze_root,
+    parquet_files=written_files,
+    )
     silver_results: dict[str, list[dict[str, Any]]] = {}
 
     print("\n")

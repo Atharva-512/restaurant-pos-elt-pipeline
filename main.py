@@ -35,6 +35,7 @@ from src.storage.hash_manager import (
     save_processed_metadata,
     should_process,
 )
+from src.silver.orchestrator import run_silver_pipeline_stage
 from src.storage.parquet_writer import write_parquet
 
 RAW_DIR = Path("data") / "raw"
@@ -72,6 +73,8 @@ def run_pipeline() -> None:
 
     written_count = 0
     skipped_count = 0
+    written_files = []
+
 
     for report_name, entries in loaded.items():
         for source_file, dataframe in entries:
@@ -89,21 +92,44 @@ def run_pipeline() -> None:
             )
             print(f"\u2713 {written_path.name}")
 
+            written_files.append(written_path)
+
             record_processed_file(metadata, source_file)
             written_count += 1
 
     # ------------------------------------------------------------------
     # 4. Persist metadata
     # ------------------------------------------------------------------
+
     save_processed_metadata(metadata)
     print("Metadata Updated")
 
     # ------------------------------------------------------------------
-    # 5. Summary
+    # 5. Silver Layer
     # ------------------------------------------------------------------
-    print(f"Summary: {written_count} written, {skipped_count} skipped")
-    print("Pipeline Finished Successfully")
 
+    silver_status = "Skipped"
+
+    if written_files:
+        print("\nStarting Silver Layer...")
+        run_silver_pipeline_stage(written_files=written_files)
+        print("Silver Layer Completed")
+        silver_status = "Completed"
+    else:
+        print("\nNo new Bronze datasets detected.")
+        print("Skipping Silver Layer.")
+
+    # ------------------------------------------------------------------
+    # 6. Pipeline Summary
+    # ------------------------------------------------------------------
+
+    print("\n=================================")
+    print("Restaurant POS ELT Pipeline Completed")
+    print("=================================")
+    print(f"Bronze Files Written : {written_count}")
+    print(f"Bronze Files Skipped : {skipped_count}")
+    print(f"Silver Layer         : {silver_status}")
+    print("=================================")
 
 if __name__ == "__main__":
     run_pipeline()

@@ -32,6 +32,7 @@ import pandas as pd
 
 def load_bronze_data(
     bronze_root: Path,
+    parquet_files: list[Path] | None = None,
 ) -> dict[str, list[dict[str, Any]]]:
     """
     Load all Bronze parquet datasets.
@@ -65,26 +66,22 @@ def load_bronze_data(
             f"Bronze directory does not exist: {bronze_root}"
         )
 
-    for report_folder in sorted(bronze_root.iterdir()):
+    if parquet_files is None:
 
-        if not report_folder.is_dir():
-            continue
+        parquet_files = sorted(bronze_root.rglob("*.parquet"))
 
-        report_name = report_folder.name
+    for parquet_file in parquet_files:
 
-        bronze_data[report_name] = []
+        report_name = parquet_file.parent.name
 
-        parquet_files = sorted(report_folder.glob("*.parquet"))
+        bronze_data.setdefault(report_name, [])
 
-        for parquet_file in parquet_files:
+        dataframe = pd.read_parquet(parquet_file)
 
-            dataframe = pd.read_parquet(parquet_file)
-
-            bronze_data[report_name].append(
-                {
-                    "file_name": parquet_file.name,
-                    "dataframe": dataframe,
-                }
-            )
-
+        bronze_data[report_name].append(
+            {
+               "file_name": parquet_file.name,
+                "dataframe": dataframe,
+            }
+        )
     return bronze_data
