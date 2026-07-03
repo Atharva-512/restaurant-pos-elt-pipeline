@@ -19,7 +19,6 @@ _ID_SUFFIXES = ("_id", "_no")
 # Columns whose full name (case-insensitive) matches one of these are
 # also treated as identifier / primary-key candidates. Covers restaurant
 # POS-specific identifiers that don't follow the generic suffix patterns
-# above (e.g. "customer_phone"), plus the bare "id" column itself.
 _ID_EXACT_NAMES = frozenset(
     {
         "id",
@@ -27,13 +26,11 @@ _ID_EXACT_NAMES = frozenset(
         "bill_no",
         "kot_no",
         "order_no",
-        "customer_phone",
     }
 )
 
 # Datetime sanity bounds used to flag "impossible" dates.
 _MIN_VALID_DATE = pd.Timestamp("1900-01-01")
-
 
 def _identify_id_columns(df: pd.DataFrame) -> list[str]:
     """
@@ -42,8 +39,7 @@ def _identify_id_columns(df: pd.DataFrame) -> list[str]:
     A column qualifies if its name (case-insensitive, whitespace-trimmed)
     either:
         - exactly matches a known restaurant POS identifier name (e.g.
-          "id", "invoice_no", "bill_no", "kot_no", "order_no",
-          "customer_phone"), or
+          "id", "invoice_no", "bill_no", "kot_no", "order_no"), or
         - ends with a generic identifier suffix ("_id" or "_no"), which
           also naturally covers "invoice_no"/"bill_no"/"kot_no"/
           "order_no" and any similarly-named future columns.
@@ -91,7 +87,7 @@ def _check_duplicate_identifiers(df: pd.DataFrame, id_columns: list[str]) -> lis
         duplicate_count = int(non_null.duplicated(keep=False).sum())
         if duplicate_count > 0:
             errors.append(
-                f"Column '{column}' has {duplicate_count} duplicate primary-key "
+                f"Column '{column}' has {duplicate_count} duplicate identifier "
                 f"candidate value(s)."
             )
 
@@ -136,6 +132,7 @@ def _check_impossible_dates(df: pd.DataFrame) -> list[str]:
     return errors
 
 
+
 def validate_business_rules(df: pd.DataFrame) -> dict[str, list[str]]:
     """
     Run business-rule validations against `df` without modifying it.
@@ -144,7 +141,7 @@ def validate_business_rules(df: pd.DataFrame) -> dict[str, list[str]]:
         - Negative values in numeric columns.
         - Duplicate values in identifier / primary-key candidate columns
           (e.g. "*_id", "*_no", "invoice_no", "bill_no", "kot_no",
-          "order_no", "customer_phone").
+          "order_no").
         - Null values in those same identifier / primary-key candidate
           columns.
         - Impossible dates (before 1900-01-01, or in the future) in

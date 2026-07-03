@@ -20,6 +20,9 @@ from pathlib import Path
 from typing import Any
 
 from src.silver.reader import load_bronze_data
+from src.transformation.business.enricher import (
+    enrich_business_attributes,
+)
 from src.transformation.pipeline import run_silver_pipeline
 
 
@@ -65,6 +68,21 @@ def run_silver_transformations(
 
             clean_df, metadata = run_silver_pipeline(dataframe)
 
+            # ---------------------------------------------------------
+            # Business Silver enrichment
+            # ---------------------------------------------------------
+            # Business attributes (brand, platform, calendar, daypart)
+            # are currently derived only for the Order Summary dataset,
+            # as it contains the required business context
+            # (sub_order_type).
+            # ---------------------------------------------------------
+            if dataset_name == "order_summary":
+                clean_df = enrich_business_attributes(
+                    clean_df,
+                    timestamp_column="date",
+                    sub_order_type_column="sub_order_type",
+                )
+
             silver_results[dataset_name].append(
                 {
                     "file_name": file_name,
@@ -85,6 +103,7 @@ def run_silver_transformations(
                 f"Validation Errors    : "
                 f"{len(metadata['validation_errors'])}"
             )
+            print(metadata["validation_errors"])
             print(f"Columns After        : {len(clean_df.columns)}")
             print("-" * 55)
 
