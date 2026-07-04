@@ -25,6 +25,7 @@ Pipeline:
 from __future__ import annotations
 
 import logging
+import pandas as pd
 from pathlib import Path
 
 from src.ingestion.discovery import discover_reports
@@ -36,6 +37,7 @@ from src.storage.hash_manager import (
     should_process,
 )
 from src.silver.orchestrator import run_silver_pipeline_stage
+from src.gold.orchestrator import run_gold_pipeline_stage
 from src.storage.parquet_writer import write_parquet
 
 RAW_DIR = Path("data") / "raw"
@@ -108,17 +110,49 @@ def run_pipeline() -> None:
     # 5. Silver Layer
     # ------------------------------------------------------------------
 
-    silver_status = "Skipped"
-
     if written_files:
+
         print("\nStarting Silver Layer...")
-        run_silver_pipeline_stage(written_files=written_files)
-        print("Silver Layer Completed")
+
+        silver_result = run_silver_pipeline_stage(
+            written_files=written_files,
+        )
+
+        silver_data = silver_result["silver_data"]
+
+        silver_orders = pd.concat(
+            [entry["dataframe"] for entry in silver_data["order_summary"]],
+            ignore_index=True,
+        )
+
+        silver_order_items = pd.concat(
+            [entry["dataframe"] for entry in silver_data["order_summary_item"]],
+            ignore_index=True,
+        )
+
+        silver_kot = pd.concat(
+            [entry["dataframe"] for entry in silver_data["kot_process_time"]],
+            ignore_index=True,
+        )
+
+        print("\nStarting Gold Layer...")
+
+        gold_summary = run_gold_pipeline_stage(
+            silver_orders=silver_orders,
+            silver_order_items=silver_order_items,
+            silver_kot=silver_kot,
+        )
+
+        print("Silver and Gold Layers Completed")
+
         silver_status = "Completed"
+
     else:
         print("\nNo new Bronze datasets detected.")
         print("Skipping Silver Layer.")
+        print("Skipping Gold Layer.")
 
+        silver_status = "Skipped"
     # ------------------------------------------------------------------
     # 6. Pipeline Summary
     # ------------------------------------------------------------------
@@ -129,6 +163,12 @@ def run_pipeline() -> None:
     print(f"Bronze Files Written : {written_count}")
     print(f"Bronze Files Skipped : {skipped_count}")
     print(f"Silver Layer         : {silver_status}")
+    if silver_status == "Completed":
+        print(
+            f"Gold Layer           : {gold_summary['written']} files written "
+            f"({gold_summary['dimensions']} dimensions, "
+            f"{gold_summary['facts']} facts)"
+        )
     print("=================================")
 
 if __name__ == "__main__":
