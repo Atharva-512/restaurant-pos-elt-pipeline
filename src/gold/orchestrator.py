@@ -38,13 +38,15 @@ def run_gold_pipeline_stage(
     """
     gold_layer = build_gold_layer(silver_orders, silver_order_items, silver_kot)
     write_summary = write_gold_layer(gold_layer)
-
     dimensions_count = len(gold_layer["dimensions"])
     facts_count = len(gold_layer["facts"])
     written_count = write_summary["dimensions_written"] + write_summary["facts_written"]
 
     return {
-        "dimensions": dimensions_count,
-        "facts": facts_count,
-        "written": written_count,
+        "gold_layer": gold_layer,
+        "summary": {
+            "dimensions": dimensions_count,
+            "facts": facts_count,
+            "written": written_count,
+        },
     }

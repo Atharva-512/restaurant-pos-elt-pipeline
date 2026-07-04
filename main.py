@@ -38,6 +38,7 @@ from src.storage.hash_manager import (
 )
 from src.silver.orchestrator import run_silver_pipeline_stage
 from src.gold.orchestrator import run_gold_pipeline_stage
+from src.warehouse.orchestrator import run_warehouse_pipeline_stage
 from src.storage.parquet_writer import write_parquet
 
 RAW_DIR = Path("data") / "raw"
@@ -137,13 +138,15 @@ def run_pipeline() -> None:
 
         print("\nStarting Gold Layer...")
 
-        gold_summary = run_gold_pipeline_stage(
+        gold_result = run_gold_pipeline_stage(
             silver_orders=silver_orders,
             silver_order_items=silver_order_items,
             silver_kot=silver_kot,
         )
 
-        print("Silver and Gold Layers Completed")
+        warehouse_summary = run_warehouse_pipeline_stage(
+            gold_layer=gold_result["gold_layer"]
+        )
 
         silver_status = "Completed"
 
@@ -151,6 +154,7 @@ def run_pipeline() -> None:
         print("\nNo new Bronze datasets detected.")
         print("Skipping Silver Layer.")
         print("Skipping Gold Layer.")
+        print("Skipping Warehouse Layer.")
 
         silver_status = "Skipped"
     # ------------------------------------------------------------------
@@ -164,10 +168,18 @@ def run_pipeline() -> None:
     print(f"Bronze Files Skipped : {skipped_count}")
     print(f"Silver Layer         : {silver_status}")
     if silver_status == "Completed":
+        gold_summary = gold_result["summary"]
+
         print(
             f"Gold Layer           : {gold_summary['written']} files written "
             f"({gold_summary['dimensions']} dimensions, "
             f"{gold_summary['facts']} facts)"
+        )
+
+        print(
+            f"Warehouse Layer      : "
+            f"{warehouse_summary['tables']} tables, "
+            f"{warehouse_summary['views']} views"
         )
     print("=================================")
 
