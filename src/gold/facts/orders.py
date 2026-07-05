@@ -31,9 +31,22 @@ _DIMENSION_KEY_COLUMNS: Final[tuple[str, ...]] = (
 _INVOICE_NO_COLUMN: Final[str] = "invoice_no"
 _KOT_NO_COLUMN: Final[str] = "kot_no"
 
+# Order descriptors carried directly from Silver onto the fact.
+_DAYPART_COLUMN: Final[str] = "daypart"
+_ORDER_TYPE_COLUMN: Final[str] = "order_type"
+_STATUS_COLUMN: Final[str] = "status"
+_ORDER_CANCEL_REASON_COLUMN: Final[str] = "order_cancel_reason"
+
 _DEGENERATE_DIMENSION_COLUMNS: Final[tuple[str, ...]] = (
     _INVOICE_NO_COLUMN,
     _KOT_NO_COLUMN,
+)
+
+_ORDER_DESCRIPTOR_COLUMNS: Final[tuple[str, ...]] = (
+    _DAYPART_COLUMN,
+    _ORDER_TYPE_COLUMN,
+    _STATUS_COLUMN,
+    _ORDER_CANCEL_REASON_COLUMN,
 )
 
 # Measures carried directly from Silver onto the fact.
@@ -63,8 +76,11 @@ _MEASURE_COLUMNS: Final[tuple[str, ...]] = (
     _TOTAL_COLUMN,
 )
 
-_FACT_COLUMNS: Final[tuple[str, ...]] = (
-    _DIMENSION_KEY_COLUMNS + _DEGENERATE_DIMENSION_COLUMNS + _MEASURE_COLUMNS
+_FACT_COLUMNS = (
+    _DIMENSION_KEY_COLUMNS
+    + _DEGENERATE_DIMENSION_COLUMNS
+    + _ORDER_DESCRIPTOR_COLUMNS
+    + _MEASURE_COLUMNS
 )
 
 
@@ -77,8 +93,10 @@ def build_orders_fact(
 
     Attaches the ``date``, ``restaurant``, ``brand``, and ``platform``
     dimension surrogate keys onto the Silver Order Summary DataFrame,
-    then selects the fact's dimension keys, degenerate dimensions, and
-    measures.
+    then selects the fact's dimension keys,
+    degenerate dimensions,
+    order descriptors,
+    and measures.
 
     Args:
         silver_orders: An enriched Silver Order Summary DataFrame.
