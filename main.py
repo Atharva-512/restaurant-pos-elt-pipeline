@@ -39,6 +39,7 @@ from src.storage.hash_manager import (
 from src.silver.orchestrator import run_silver_pipeline_stage
 from src.gold.orchestrator import run_gold_pipeline_stage
 from src.warehouse.orchestrator import run_warehouse_pipeline_stage
+from src.reporting import run_reporting_pipeline
 from src.storage.parquet_writer import write_parquet
 
 RAW_DIR = Path("data") / "raw"
@@ -148,6 +149,10 @@ def run_pipeline() -> None:
             gold_layer=gold_result["gold_layer"]
         )
 
+        print("\nStarting Reporting Layer...")
+
+        reporting_summary = run_reporting_pipeline()
+
         silver_status = "Completed"
 
     else:
@@ -180,6 +185,14 @@ def run_pipeline() -> None:
             f"Warehouse Layer      : "
             f"{warehouse_summary['tables']} tables, "
             f"{warehouse_summary['views']} views"
+        )
+
+        print(
+            f"Reporting Layer      : "
+            f"{reporting_summary['datasets']} datasets "
+            f"({reporting_summary['views']} views, "
+            f"{reporting_summary['dimensions']} dimensions), "
+            f"{reporting_summary['rows']} rows"
         )
     print("=================================")
 

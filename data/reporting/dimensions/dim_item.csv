@@ -1,0 +1,844 @@
+item_key,item_name
+1,1lr water bottle
+2,7up 400ml
+3,7up 400ml [o]
+4,Aamras - 300 Ml
+5,Aamras - Thali
+6,Aamras - Thali [o]
+7,Aamras 300 Ml
+8,Aamras 300 Ml .
+9,Aamras 300 Ml[hh]
+10,Aamras Meal
+11,Aamras Puri
+12,Aamras Puri [o]
+13,Aamras Thali
+14,Aamras Thali (Unlimited)
+15,Aamras Thali (unlimited)
+16,Aamras? - 300 Ml
+17,Aamras? - 300 Ml [o]
+18,Aloo - Pyaz Sabji
+19,Aloo - Pyaz Sabji With Phulka Roti
+20,Aloo - Pyaz Sabji With Phulka Roti & Dal Rice
+21,Aloo - Pyaz Sabji With Phulka Roti & Dal Rice [O]
+22,Aloo - Pyaz Sabji [O]
+23,Aloo Bhaji
+24,Aloo Bhaji (RASA)
+25,Aloo Bhaji (SUKHA)
+26,Aloo Bhaji [O]
+27,Aloo Gobi Paratha
+28,Aloo Gobi Paratha [O]
+29,Aloo Methi Paratha
+30,Aloo Methi Paratha [O]
+31,Aloo Methi Sabji
+32,Aloo Methi Sabji With Phulka Roti
+33,Aloo Methi Sabji With Phulka Roti & Dal Rice
+34,Aloo Methi Sabji With Phulka Roti [O]
+35,Aloo Methi Sabji [O]
+36,Aloo Mutter Sabji
+37,Aloo Mutter Sabji With Phulka Roti
+38,Aloo Mutter Sabji With Phulka Roti & Dal Rice
+39,Aloo Mutter Sabji With Phulka Roti & Dal Rice [O]
+40,Aloo Mutter Sabji With Phulka Roti [O]
+41,Aloo Mutter Sabji [O]
+42,Aloo Palak Sabji
+43,Aloo Palak Sabji [O]
+44,Aloo Paratha
+45,Aloo Paratha (2 Pcs)
+46,Aloo Paratha [O]
+47,Aloo Rasawala
+48,Aloo Sabji With Rajgira Puri
+49,Aloo Sabji With Rajgira Puri [O]
+50,Aloo Sukhi Bhaji
+51,Aloo Tomato Sabji
+52,Aloo Tomato Sabji With Phulka Roti
+53,Aloo Tomato Sabji With Phulka Roti & Dal Rice
+54,Aloo Tomato Sabji [O]
+55,Amritshari Paneer Paratha
+56,Amritshari Paneer Paratha [O]
+57,Atta Ka Sheera
+58,BANANA
+59,BANANA - 12 PC
+60,BANANA 12 PC
+61,BANANA 12PC
+62,BREAD 1 PKT
+63,BREAD OMELATTE
+64,BREAD PAKODA
+65,Baingan Bharta Sabji
+66,Baingan Bharta Sabji [O]
+67,Baingan Bhartha Sabji
+68,Bajra Pizza
+69,Bajra Roti (1 Pc)
+70,Bajri Roti
+71,Bajri Roti (1 Pc)
+72,Bajri Roti (1 Piece)
+73,Bajri Roti [O]
+74,Banana 12 pc
+75,Banana 12pc
+76,Batata Bhajiya (Pakoda) [O]
+77,Batata Bhajiya (pakoda)
+78,Batata Kanda Poha
+79,"Batata Kanda Poha (250 Ml) , Methi Thepla (3 Pcs) Combo"
+80,Batata Kanda Poha [O]
+81,Batata Kanda Poha [SC]
+82,Besan Gatta Sabji
+83,Besan Gatte Ki Sabji
+84,Besan Gatte Ki Sabji With Phulka Roti
+85,Besan Gatte Ki Sabji With Phulka Roti & Khichdi Kadi
+86,Besan Gatte Ki Sabji With Phulka Roti & Khichdi Kadi [O]
+87,Besan Gatte Ki Sabji [O]
+88,Besan Pitlu With Jowar Bhakhari Meal
+89,Besan Pitlu With Jowar Bhakhari Meal .
+90,Bhel Puri
+91,Biscuits [sc]
+92,Black Beans Corn Salad
+93,Black Coffee [SC]
+94,Boiled Egg
+95,Boiled Egg [SC]
+96,Bombay Masala Toast Sandwich
+97,Bread 1 pkt
+98,Bread Butter [SC]
+99,Bread Jam [SC]
+100,Bread Omelette
+101,Bread omelette
+102,CHEESE CHUTNEY SANDWICH
+103,CURD
+104,Chana Chat
+105,Chana Chat [O]
+106,Chana Masala
+107,Chana Masala .
+108,Chana Masala Sabji
+109,Chana Masala Sabji With Phulka Roti
+110,Chana Masala Sabji With Phulka Roti & Dal Rice
+111,Chana Masala Sabji [O]
+112,Chana Moong Chatpata Salad
+113,Chana Moong Chatpata Salad .
+114,Chana Salad
+115,Chana Salad [SC]
+116,Chass [sc]
+117,Cheese Chutney Sandwich
+118,Cheese Margherita Pizza
+119,Cheese Paratha
+120,Cheese Paratha [O]
+121,Chilka Wali Moong Dal Khichdi
+122,Chilka Wali Moong Dal Khichdi [O]
+123,Chocolate Sandwich [SC]
+124,Chokha (Rice) Roti
+125,Chokha (Rice) Roti [O]
+126,Chokha (rice) Roti
+127,Chole Ki Sabji
+128,Chole Masala
+129,Chole Masala Mini Meal
+130,Chole Masala Mini Meal .
+131,Chole Masala Rice Bowl
+132,Chole Masala Rice Bowl .
+133,Chole Masala Sabji
+134,Chole Masala Sabji [O]
+135,Chole-Puri [O]
+136,Chole-puri
+137,Churma Ladoo
+138,Churma Ladoo (1 Pcs)
+139,Churma Ladoo (2 Pcs)
+140,Churma Ladoo [o]
+141,Churma Ladoo.
+142,Churma Ladoo. [o]
+143,Chutney Sandwich [SC]
+144,Classic Maggi
+145,Classic Maggi Bowl
+146,Classic Maggi [O]
+147,Classic Maggi [SC]
+148,Coffee [SC]
+149,Corn Cucumber Beans Salad
+150,Cucumber Tomato Salad
+151,Curd Rice
+152,Curd Rice [O]
+153,DAL KHICHDI
+154,Dabeli
+155,Dabeli (1 Pc)
+156,Dabeli - Single Piece
+157,Dabeli - Single Piece .
+158,Dabeli Single Piece
+159,Dabeli Single Piece [O]
+160,Dabeli [O]
+161,Dahi Bhindi Sabji With Phulka Roti & Dal Rice
+162,Dahi Bhindi Sabji With Phulka Roti & Dal Rice [O]
+163,Dahi Puri
+164,Dahi Vada
+165,Dahi Vada [O]
+166,Dahiwala Bhindi Sabji
+167,Dahiwala Bhindi Sabji With Phulka Roti
+168,Dahiwala Bhindi Sabji With Phulka Roti [O]
+169,Dahiwala Bhindi Sabji [O]
+170,Dahiwala Sprout Moong Sabji
+171,Dahiwala Sprout Moong Sabji With Phulka Roti
+172,Dahiwala Sprout Moong Sabji [O]
+173,Dal Besan Chilla
+174,Dal Dhokli (Gujarati)
+175,Dal Dhokli (Gujarati) [O]
+176,Dal Dhokli (gujarati)
+177,Dal Khichdi Bowl
+178,Dal Khichdi Bowl .
+179,Dal Khichdi [SC]
+180,Dal Palak
+181,Dal Palak [O]
+182,Dal Rice Bowl
+183,Dal Rice [SC]
+184,Dal Tadaka
+185,Dal Tadaka [O]
+186,Dal Tadka
+187,Dal Tadka And Jeera Rice
+188,Dal Tadka And Jeera Rice [O]
+189,Dal Tadka Rice Bowl
+190,Dal Tadka Rice Bowl .
+191,Dhaniya Thepla
+192,Dhaniya Thepla [O]
+193,Double Tadka Dal Khichdi With Dahi Fry & Papad
+194,Dry Chatpata Chana Masala Sabji With Phulka Roti
+195,Dry Chatpata Chana Masala Sabji With Phulka Roti & Dal Rice
+196,Dry Chatpata Chana Masala Sabji With Phulka Roti & Dal Rice [O]
+197,Dry Chatpata Chana Sabji
+198,Dry Chatpata Chana Sabji [O]
+199,Dudhi Chana Sabji
+200,Dudhi Chana Sabji With Phulka Roti
+201,Dudhi Chana Sabji With Phulka Roti & Dal Rice
+202,Dudhi Chana Sabji With Phulka Roti & Dal Rice [O]
+203,Dudhi Chana Sabji [O]
+204,EVENT DINNER
+205,EVENT FIX THALI
+206,EVENT LUNCH
+207,EVENT ONE DAY PAYMENT
+208,EVENT ONLY DINNER
+209,EVENT ONLY LUNCH
+210,EVENT THALI
+211,EVENT THALI FIX
+212,EVENT THALI LIMITED
+213,EVENT VEG THALI
+214,EXTRA PAV
+215,EXTRA PAV MASALA
+216,Egg Bhurji [SC]
+217,Egg Fried Rice [SC]
+218,Egg Gotala [SC]
+219,Event ONLY Lunch Thali
+220,Executive Paneer Thali
+221,Executive Paneer Thali .
+222,Executive Thali
+223,Executive Thali .
+224,Extra Pav
+225,Extra Pav (1 Pc) [SC]
+226,Extra Pav [O]
+227,FIX THALI
+228,Fafda
+229,Fajeto
+230,Fajeto Aamras - Thali
+231,Fajeto Aamras - Thali [o]
+232,Fajeto Meal
+233,Fajeto Meal .
+234,Fajeto [o]
+235,Fansi Dhokdi Sabji
+236,Fansi Dhokdi Sabji With Phulka Roti
+237,Fansi Dhokdi Sabji With Phulka Roti & Dal Rice
+238,Fansi Dhokdi Sabji With Phulka Roti & Dal Rice [O]
+239,Fansi Dhokdi Sabji With Phulka Roti [O]
+240,Fansi Dhokdi Sabji [O]
+241,Fasting Thali
+242,Fasting Thali .
+243,Fixed Thali (Rice Thali) [SC]
+244,Flower Mutter Mix Sabji
+245,Flower Mutter Mix Sabji With Phulka Roti
+246,Flower Mutter Mix Sabji With Phulka Roti & Dal Rice
+247,Flower Mutter Mix Sabji With Phulka Roti & Dal Rice [O]
+248,Flower Mutter Mix Sabji With Phulka Roti [O]
+249,Flower Mutter Mix Sabji [O]
+250,Flower Potato Sabji
+251,Flower Potato Sabji With Phulka Roti
+252,Flower Potato Sabji With Phulka Roti & Dal Rice
+253,Flower Potato Sabji With Phulka Roti & Dal Rice [O]
+254,French Fries
+255,French Fries (Peri Peri)
+256,French Fries (Salted)
+257,French Fries [O]
+258,French fries
+259,Fresh Salad
+260,Fresh Salad [O]
+261,GREEN CHUTNEY
+262,Garlic Thepla
+263,Garlic Thepla (4 Pcs)
+264,Garlic Thepla [O]
+265,Garlic chutney
+266,Gatorade 250ml
+267,Gatorade 250ml [o]
+268,Gatta Pulav With Veg Raita
+269,Gatta Pulav With Veg Raita [O]
+270,Ghee Aloo Paratha (1 Piece)
+271,Gobi Paratha
+272,Gobi Paratha [O]
+273,Green Peas Paratha
+274,Green Salad [SC]
+275,Gujarati Chundo (200 Gram)
+276,Gujarati Chundo (200 Gram) [O]
+277,Gujarati Chundo [200 Gram]
+278,Gujarati Chundo [200 Gram] [O]
+279,Gujarati Dal
+280,Gujarati Dal Dhokli
+281,Gujarati Dal Rice
+282,Gujarati Dal Rice Meal
+283,Gujarati Dal Rice [O]
+284,Gujarati Dal [O]
+285,Gujarati Handvo
+286,Gujarati Handvo [O]
+287,Gujarati Kadi
+288,Gujarati Kadi [O]
+289,Gujarati Khichdi (Moong Dal)
+290,Gujarati Khichdi (Moong Dal) / Gujarati Kadi [O]
+291,Gujarati Khichdi (moong Dal) / Gujarati Kadi
+292,Gujarati Khichiyu
+293,Gujarati Khichiyu [O]
+294,Gujarati Mini Thali
+295,Gujarati Mini Thali [O]
+296,Gujarati Thali (Limited)
+297,Gulab Jamun
+298,Gulab Jamun (2 Pcs)
+299,Gulab Jamun [O]
+300,Gur Papadi
+301,Gur Papadi [O]
+302,Gur Papadi.
+303,Gur Papadi. [O]
+304,Guvar Dhokdi Sabji
+305,Guvar Dhokdi Sabji With Phulka Roti
+306,Guvar Dhokdi Sabji With Phulka Roti & Dal Rice
+307,Guvar Dhokdi Sabji With Phulka Roti & Dal Rice [O]
+308,Guvar Dhokdi Sabji [O]
+309,Half Fry [sc]
+310,Handvo.
+311,Healthy Bajra Pizza.
+312,Healthy Jawar Pizza
+313,Healthy Jawar Pizza [O]
+314,Healthy Mix Salad
+315,Healthy Pizza (BAJRI)
+316,Healthy Pizza (JAWAR)
+317,High Protein Salad
+318,Hot Milk [SC]
+319,Idli Sambar Chutney
+320,Idlis With Chutney & Sambar
+321,Idlis With Chutney & Sambar [O]
+322,Indori Poha
+323,Jain Besan Gatta
+324,Jain Gujarati Dal Rice
+325,Jain Gujarati Dal Rice [O]
+326,Jain Gujarati Handvo
+327,Jain Gujarati Khichdi (moong Dal) / Gujarati Kadi
+328,Jain Jowar Pizza
+329,Jain Masala Chai - Tea (250 Ml)
+330,Jain Methi Gotta
+331,Jain Methi Thepla
+332,Jain Methi Thepla With Dahi (4 Pcs)
+333,Jain Paneer Butter
+334,Jain Paneer Makhanwala
+335,Jain Panki (2 Pcs)
+336,Jain Patra
+337,Jain Patta Kobi Sabji
+338,Jain Patta Kobi Sabji [O]
+339,Jain Poha
+340,Jain Poha (Jain Preparation) [O]
+341,Jain Poha (jain Preparation)
+342,Jain Poha [O]
+343,Jain Rice Khichiyu
+344,Jain Sev Tomato Sabji
+345,Jain Sev Tomato Sabji [O]
+346,Jain Special Thali
+347,Jain Special Thali [O]
+348,Jain Steam Muthia With Green Chutney
+349,Jain Steam Muthia With Green Chutney [O]
+350,Jain Tava Pulav With Veg Raita
+351,Jal Jeera
+352,Jawar Roti (1 Pc)
+353,Jeera Bhakhari
+354,Jeera Paratha
+355,Jeera Paratha [O]
+356,Jeera Rice
+357,Jeera Rice [O]
+358,Jowar Pizza
+359,Jowar Roti
+360,Jowar Roti (1 Pc)
+361,Jowar Roti [O]
+362,Kadai Paneer
+363,Kadai Paneer Rice Bowl
+364,Kadai Paneer Rice Bowl .
+365,Kadai Paneer With Paratha
+366,Kadai Paneer With Paratha [O]
+367,Kadai Paneer [O]
+368,Kadai Paneer[hh]
+369,Kadi Pakoda
+370,Kadi Pakoda Rice Bowl
+371,Kadi Pakoda Rice Bowl .
+372,Kadi Pakoda With Rice
+373,Kadi Pakoda With Rice [O]
+374,Kadi Pakoda [O]
+375,Kanda Methi Bhaji
+376,Kanda Methi Bhaji [O]
+377,Kanda Poha
+378,Kanda Poha [O]
+379,Kathiyawadi Sev Tamatar Ki Sabji
+380,Kathiyawadi Sev Tamatar Ki Sabji (Rajasthani Special)
+381,Khaman Dhokla
+382,Khaman Dhokla [O]
+383,Khathiyawadi Sev Tameta
+384,Kheer Puri Aloo Sabji Meal
+385,Khichdi ( Moong Dal )
+386,Khichdi ( Moong Dal ) [O]
+387,Koki Paratha With Curd
+388,Koki Paratha With Curd (2 Pc)
+389,Koki Paratha With Curd (2 Pcs)
+390,Koki Paratha With Curd [O]
+391,Kutchi Dabeli [1 Pc]
+392,LUNCH THALI
+393,LUNCH THALI FIX
+394,Lasaniya Aloo
+395,Lasaniya Aloo Sabji With Phulka Roti
+396,Lasaniya Aloo Sabji With Phulka Roti [O]
+397,Lasooni Dal Fry Rice Bowl
+398,Lasooni Dal Fry Rice Bowl .
+399,Lasuni Aloo Sabji
+400,Lasuni Bataka Sabji
+401,Lasuni Bataka Sabji With Phulka Roti & Dal Rice
+402,Lasuni Bataka Sabji With Phulka Roti & Dal Rice [O]
+403,Lasuni Bataka Sabji [O]
+404,Lasuni Palak
+405,Lasuni Palak Sabji
+406,Lasuni Palak Sabji [O]
+407,Lauki Thepla
+408,Lauki Thepla [O]
+409,Lunch Thali
+410,MILK HALF GLASS
+411,MIRCHI KUTA JAIN
+412,Makkai Roti
+413,Makkai Roti (1 Pc)
+414,Makkai Roti [O]
+415,Mango Sheera
+416,Mango Sheera [o]
+417,Marvadi Kadi
+418,Marvadi Kadi With Chilka Wali Moong Dal Khichdi
+419,Marvadi Kadi With Chilka Wali Moong Dal Khichdi [O]
+420,Marvadi Kadi [O]
+421,Masala Bhakhari
+422,Masala Bhakhari [O]
+423,Masala Bhindi
+424,Masala Bhindi Sabji
+425,Masala Bhindi Sabji With Phulka Roti
+426,Masala Bhindi Sabji With Phulka Roti & Dal Rice
+427,Masala Bhindi Sabji With Phulka Roti & Dal Rice [O]
+428,Masala Bhindi Sabji [O]
+429,Masala Chaas
+430,Masala Chaas (Butter Milk)
+431,Masala Chaas - Butter Milk
+432,Masala Chaas - Butter Milk [O]
+433,Masala Chai - Tea
+434,Masala Chai - Tea (250 ML) [O]
+435,Masala Chai - Tea (250 Ml)
+436,Masala Khichdi [SC]
+437,Masala Khichiya
+438,Masala Maggi
+439,Masala Maggi [O]
+440,Masala Maggi [SC]
+441,Masala Pav (2 Piece)
+442,Masala Puri
+443,Masala Puri (5 Pcs)
+444,Masala Puri - 5 Pieces
+445,Masala Puri [O]
+446,Masala Tea
+447,Masala Tea [SC]
+448,Matki (Math) Ki Sabji
+449,Matki (Math) Ki Sabji With Phulka Roti & Dal Rice [O]
+450,Matki (Math) Ki Sabji [O]
+451,Matki (math) Ki Sabji
+452,Matki (math) Ki Sabji With Phulka Roti
+453,Matki (math) Ki Sabji With Phulka Roti & Dal Rice
+454,Methi Gota
+455,Methi Gota [O]
+456,Methi Gotta.
+457,Methi Thepla
+458,Methi Thepla (2 Pcs)
+459,Methi Thepla (4 Pcs)
+460,Methi Thepla - Vacuum Pack Of 5 Piece
+461,Methi Thepla - Vacuum Pack Of 5 Piece [O]
+462,Methi Thepla Combo (3 Methi Thepla & 2 Koki Paratha) [O]
+463,Methi Thepla Combo (3 Methi Thepla / 2 Koki Paratha)
+464,Methi Thepla With Dahi (4 Pcs)
+465,Methi Thepla [O]
+466,Mineral Water
+467,Mineral Water 1l [sc]
+468,Mineral Water 500ml [sc]
+469,Mini Batata Vada (6 Pc)
+470,Mini Batata Vada (6 Pcs)
+471,Miranda 400ml
+472,Miranda 400ml [o]
+473,Misal Pav
+474,Misal Pav .
+475,Misal Pav [O]
+476,Misal Pav [SC]
+477,Mix Salad [SC]
+478,Mix Veg Rice Bowl
+479,Mix Veg Rice Bowl .
+480,Mix Veg Upma With Chutney
+481,Mix Vegetable
+482,Mix Vegetable (Jain)
+483,Mix. Veg Maggi Bowl
+484,Mix. Veg Maggi Bowl .
+485,Moog Dal Khichdi / Kadi Meal
+486,Moog Dal Khichdi / Kadi Meal .
+487,Moong Chana Mix Salad
+488,Moong Dal Bhajiya
+489,Moong Dal Bhajiya (Pakoda)
+490,Moong Dal Bhajiya (Pakoda) [O]
+491,Moong Dal Bhajiya (pakoda)
+492,Moong Dal Bhajiya.
+493,Mumbai Chowpatty Chana Chat
+494,Mumbai Chowpatty Chana Chat .
+495,Mumbai Super Combo
+496,Mumbai Vada Pav
+497,Mumbai Vada Pav [O]
+498,Mutter Paneer
+499,Mutter Paneer With Paratha
+500,Mutter Paneer [O]
+501,NIMBU PANI
+502,Nachani Roti
+503,Nachani Roti (1 Pc)
+504,Nachani Roti [O]
+505,Nachni Roti (1 Pc)
+506,Navratri Thali
+507,Nimbu Pani
+508,Nimbu Pani 200ml
+509,Nimbu Pani [O]
+510,Nimbu Pani [sc]
+511,ONLY DINNER
+512,ONLY DINNER EVENT
+513,ONLY LUNCH
+514,ONLY SABJI
+515,ONLY SABJI ROTI
+516,Omelette Pav [sc]
+517,Omelette [sc]
+518,Open Item
+519,PALAK METHI DALFRY JEERA RICE PARATHA
+520,PAPAD
+521,PASTA
+522,PURI SABJI ONLY
+523,Palak Khichdi Bowl
+524,Palak Khichdi Bowl .
+525,Palak Methi Bhaji
+526,Palak Methi Bhaji [O]
+527,Palak Paneer
+528,Palak Paneer [O]
+529,Panchmel Dal
+530,Panchmel Dal [O]
+531,Paneer Bhurji
+532,Paneer Bhurji Rice Bowl
+533,Paneer Bhurji Rice Bowl .
+534,Paneer Bhurji With Paratha
+535,Paneer Bhurji With Paratha [O]
+536,Paneer Bhurji [O]
+537,Paneer Butter
+538,Paneer Butter Masala
+539,Paneer Butter With Paratha
+540,Paneer Butter [O]
+541,Paneer Cheese Paratha
+542,Paneer Cheese Paratha (6 Inch)
+543,Paneer Cheese Paratha [O]
+544,Paneer Cheese Toast Sandwich [O]
+545,Paneer Chickpeas Salad
+546,Paneer Makhani Rice Bowl
+547,Paneer Makhani Rice Bowl .
+548,Paneer Makhanwala
+549,Paneer Makhanwala With Paratha
+550,Paneer Makhanwala With Paratha [O]
+551,Paneer Makhanwala [O]
+552,Paneer Paratha
+553,Paneer Paratha [O]
+554,Paneer Patiala
+555,Paneer Patiala With Paratha
+556,Paneer Porcha
+557,Paneer Porcha With Paratha
+558,Paneer Sweetcorn Salad
+559,Paneer Sweetcorn Salad .
+560,Pani Puri
+561,Panki (2 Pc)
+562,Papad Churi
+563,Papad Churi .
+564,Papad Ki Sabji
+565,Papad Ki Sabji [O]
+566,Pasta
+567,Patra
+568,Patra [O]
+569,Patta Kobi Mutter Sabji
+570,Patta Kobi Mutter Sabji With Phulka Roti
+571,Patta Kobi Mutter Sabji With Phulka Roti & Dal Rice
+572,Patta Kobi Mutter Sabji [O]
+573,Patta Kobi Sabji
+574,Patta Kobi Sabji With Phulka Roti
+575,Patta Kobi Sabji With Phulka Roti & Dal Rice
+576,Patta Kobi Sabji With Phulka Roti & Dal Rice [O]
+577,Patta Kobi Sabji [O]
+578,Pattakobi Sabji
+579,Pav Bhaji
+580,Pav-Bhaji (1 Qty)
+581,Pav-Bhaji (1 Qty) [O]
+582,"Pav-Bhaji, Pulav & Dahi Fry Combo [O]"
+583,Pav-bhaji (1 Qty)
+584,"Pav-bhaji, Pulav & Dahi Fry Combo"
+585,Pavbhaji Combo Meal
+586,Pavbhaji Combo Meal .
+587,Peanut Butter Sandwich [SC]
+588,Pepsi 400ml
+589,Pepsi 400ml [o]
+590,Peri Peri French Fries
+591,Phulka Roti
+592,Phulka Roti (1 Pc)
+593,Phulka Roti (1 Piece)
+594,Phulka Roti - 1 Piece
+595,Phulka Roti [SC]
+596,Plain Paratha
+597,Plain Paratha [O]
+598,Plain Puri
+599,Plain Puri (5 Pcs)
+600,Plain Puri - 5 Pieces
+601,Plain Puri [O]
+602,Plain Thepla
+603,Plain Thepla [O]
+604,Protein Salad
+605,Protein Salad [O]
+606,Punjabi Aloo Paratha
+607,Punjabi Aloo Paratha (6 Inch)
+608,Punjabi Aloo Paratha (6 Inches)
+609,Punjabi Aloo Paratha [O]
+610,Punjabi Mini Thali
+611,Punjabi Mini Thali [O]
+612,Puran Poli (1 Pc)
+613,Puran Poli (1 Pcs)
+614,Puri Bhaji
+615,Puri Bhaji Meal
+616,Puri Bhaji Meal .
+617,Puri-Bhaji
+618,Puri-Bhaji [O]
+619,Puri-bhaji
+620,ROTI SABJI ONLY
+621,Ragada Pattice
+622,Ragada Pattice [O]
+623,Ragda Chaat
+624,Rajasthani Besan Gatta Meal
+625,Rajasthani Besan Gatta Meal .
+626,Rajasthani Dal Bati Churma
+627,Rajasthani Dal Bati Churma (Rajasthani Special)
+628,Rajasthani Dal Bati Churma [O]
+629,Rajasthani Dal Bati Meal
+630,Rajasthani Dal Bati Meal .
+631,Rajasthani Dal Dhokli
+632,Rajasthani Gunda Sabji
+633,Rajasthani Gunda Sabji [O]
+634,Rajasthani Ker Sangri Ki Sabji
+635,Rajasthani Ker Sangri Ki Sabji [O]
+636,Rajasthani Panchkuta Ki Sabji
+637,Rajgira Puri (5 Pcs)
+638,Rajgira Puri (5 Piece)
+639,Rajgira Puri (5 Piece) [O]
+640,Rajgira Sheera
+641,Rajgira Sheera [O]
+642,Rajma Chawal Rice Bowl
+643,Rajma Chawal Rice Bowl .
+644,Rasawala Aloo Sabji
+645,Rasawala Aloo Sabji With Methi Thepla
+646,Rasawala Aloo Sabji With Methi Thepla [O]
+647,Rasawala Aloo Sabji [O]
+648,Rava Sheera
+649,Rava Sheera [O]
+650,Regular Paneer Thali
+651,Regular Paneer Thali .
+652,Regular Thali
+653,Regular Thali .
+654,Resmi Paneer
+655,Resmi Paneer Masala With Paratha
+656,Resmi Paneer [O]
+657,Rice Kheer
+658,Rice Kheer [O]
+659,Rice Khichiyu.
+660,Rice Rotla (1 Pc)
+661,Ringada Bataka Sabji
+662,Ringada Bataka Sabji [O]
+663,Roasted Masala Corn - Bhutta Masala
+664,SEVAIYAN
+665,Sabji Roti [SC]
+666,Sabudana Kheer
+667,Sabudana Kheer - Fasting
+668,Sabudana Kheer - Fasting [O]
+669,Sabudana Khichdi
+670,"Sabudana Khichdi (250 ML) , Sabudana Vada (2 Pcs) Combo [O]"
+671,"Sabudana Khichdi (250 Ml) , Sabudana Vada (2 Pcs) Combo"
+672,Sabudana Khichdi [O]
+673,Sabudana Meal
+674,Sabudana Vada
+675,Sabudana Vada [O]
+676,Salad Bhel
+677,Salad Bhel .
+678,Samo With Curd (Bhagar) [O]
+679,Samo With Curd (bhagar)
+680,Samosa
+681,Samosa (1 Pc)
+682,Samosa - Single Piece
+683,Samosa - Single Piece .
+684,Samosa 4pc
+685,Samosa Chaat
+686,Samosa Chaat [O]
+687,Samosa Single Piece
+688,Samosa Single Piece [O]
+689,Samosa [O]
+690,Sev Puri
+691,Sev Tomato Sabji
+692,Sev Tomato Sabji (Kathiyawadi Style)
+693,Sev Tomato Sabji - (Kathiyawadi Style) [O]
+694,Sev Tomato Sabji - (kathiyawadi Style)
+695,Sev Tomato Sabji With Phulka Roti
+696,Sev Tomato Sabji With Phulka Roti & Dal Rice
+697,Sev Tomato Sabji With Phulka Roti & Dal Rice [O]
+698,Sev Tomato Sabji With Phulka Roti [O]
+699,Sev Tomato Sabji [O]
+700,Shengdana (peanut) Amti
+701,Shradh Bhoj Thali
+702,Simala Mirchi - Bataka Sabji
+703,Simala Mirchi - Bataka Sabji [O]
+704,Soft Drink
+705,Soft Drinks [sc]
+706,South Indian Curd Rice Meal With Gulab Jamun (1pcs)
+707,South Indian Thali
+708,South Indian Thali [O]
+709,Special Jain Thali
+710,Special Pulao Thali
+711,Special Pulao Thali .
+712,Special Pulao Thali [O]
+713,Special Rice Thali
+714,Special Rice Thali [O]
+715,Sprouts Salad - Mix
+716,Sprouts Salad - Mix [O]
+717,Sprouts Salad - Moong
+718,Sprouts Salad - Moong [O]
+719,Staff Tea [sc]
+720,Steam Muthia With Green Chutney
+721,Steam Muthia With Green Chutney [O]
+722,Steam Muthiya
+723,Steam Muthiya .
+724,Steam Rice
+725,Steam Rice [O]
+726,Steamed Rice
+727,THALI
+728,Tava Pulao
+729,Tava Pulav With Veg Raita
+730,Tava Pulav With Veg Raita [O]
+731,Tejal'S Kitchen Special Upwas Thali
+732,Tejal'S Kitchen Special Upwas Thali [O]
+733,Tejal's Kitchen Special Upwas Thali
+734,Thali- Baigan Bharta
+735,Thali- Baigan Bharta [O]
+736,Thali- Dal Dhokli
+737,Thali- Dal Dhokli [O]
+738,Thepla House Special Thali (Unlimited)
+739,Tindora Bataka Sabji
+740,Tindora Bataka Sabji With Phulka Roti
+741,Tomato- Onion Sabji With Phulka Roti
+742,Tomato-Onion Sabji [O]
+743,Tomato-onion Sabji
+744,Tringle Paratha - 4 Pieces
+745,Tufani Paneer
+746,Tufani Paneer With Paratha
+747,Tufani Paneer [O]
+748,Upma
+749,Upma [O]
+750,Upwas Aloo Sabji
+751,Upwas Aloo Sabji (Fasting) [O]
+752,Upwas Aloo Sabji (fasting)
+753,Upwas Farali Mishal
+754,Upwas Farali Mishal [O]
+755,Ushal Pav
+756,VEGETABLE SANDWICH
+757,Vada Pav
+758,Vada Pav (1 Pc)
+759,Vada Pav - Single Piece
+760,Vada Pav - Single Piece .
+761,Vada Pav Single Piece
+762,Vada Pav Single Piece [O]
+763,Vada Pav [SC]
+764,Vada [sc]
+765,Varan Bhat
+766,Varan Bhat .
+767,Vedhami (PuranPoli) [O]
+768,Vedhami (Puranpoli) (1 Pc)
+769,Vedhami (puranpoli)
+770,Veg Cheese Toast Sandwich
+771,Veg Cheese Toast Sandwich [O]
+772,Veg Cheese Toast [SC]
+773,Veg Fried Rice [SC]
+774,Veg Raita
+775,Veg Sandwich [SC]
+776,Veg Toast Sandwich [SC]
+777,Veg. Raita
+778,Veg. Raita [O]
+779,Vegetable Biryani With Veg Raita
+780,Vegetable Biryani With Veg Raita (Regular)
+781,Vegetable Biryani With Veg Raita (With Paneer)
+782,Vegetable Biryani With Veg Raita [O]
+783,Vegetable Cheese Sandwich
+784,Vegetable Cheese Sandwich [O]
+785,Vegetable Paneer Biryani
+786,Vegetable Paneer Biryani [O]
+787,Vegetable Sandwich
+788,Vegetable White Pulav
+789,Vegetable White Pulav [O]
+790,Veggie Farm Fresh Pizza [O]
+791,Water 1ltr
+792,Water 500ml
+793,Water Bottle 500ml
+794,Water Bottle 500ml [o]
+795,Wheat Phulka Roti (1 Pc)
+796,Wheat Roti
+797,Wheat Roti [O]
+798,White Dhokla
+799,White Dhokla .
+800,White-Dhokla
+801,White-Dhokla [O]
+802,White-dhokla
+803,banana
+804,bhaleli vangi kg
+805,bread omelette
+806,chai
+807,event dinner
+808,event fix thali
+809,event lunch
+810,event only dinner
+811,event thali
+812,fix thali event
+813,idli
+814,idli sambhar
+815,jeera bhakhari
+816,jhunka kg
+817,makai roti
+818,masala bhat
+819,masala chai
+820,masala cheese maggie
+821,masala khichdi
+822,masala khichya
+823,masala puri
+824,methi thepla
+825,miranda
+826,mirchi kuta
+827,misal pav
+828,only dinner
+829,only lunch
+830,only lunch fix thali
+831,paneer cheese partha
+832,paneer partha
+833,papad
+834,pepsi
+835,pickel
+836,punjabi thali
+837,salad
+838,tea
+839,thali
+840,upma
+841,water
+842,water bottle
+843,water bottle 500ml
