@@ -1,0 +1,160 @@
+{
+  "name": "Restaurant POS Executive Theme",
+  "dataColors": [
+    "#2563EB",
+    "#14B8A6",
+    "#F59E0B",
+    "#22C55E",
+    "#EF4444",
+    "#64748B",
+    "#38BDF8",
+    "#A855F7"
+  ],
+  "background": "#F7F9FC",
+  "foreground": "#1E293B",
+  "tableAccent": "#2563EB",
+  "good": "#22C55E",
+  "bad": "#EF4444",
+  "neutral": "#F59E0B",
+  "maximum": "#2563EB",
+  "center": "#94A3B8",
+  "minimum": "#E2E8F0",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 13,
+      "color": "#1E293B"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#64748B"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 24,
+      "color": "#1E293B"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }
+        ],
+        "border": [
+          { "show": true, "color": { "solid": { "color": "#E2E8F0" } }, "radius": 12 }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#0F172A" } },
+            "transparency": 94,
+            "position": "Outer",
+            "preset": "Custom",
+            "shadowBlur": 6,
+            "shadowDistance": 2,
+            "shadowAngle": 90,
+            "shadowSpread": 0
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#1E293B" } },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI Semibold",
+            "alignment": "left"
+          }
+        ],
+        "legend": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#334155" } },
+            "fontSize": 9,
+            "position": "TopRight"
+          }
+        ],
+        "categoryAxis": [
+          {
+            "fontColor": { "solid": { "color": "#64748B" } },
+            "fontSize": 9,
+            "gridlineColor": { "solid": { "color": "#E2E8F0" } },
+            "gridlineShow": false
+          }
+        ],
+        "valueAxis": [
+          {
+            "fontColor": { "solid": { "color": "#64748B" } },
+            "fontSize": 9,
+            "gridlineColor": { "solid": { "color": "#E2E8F0" } },
+            "gridlineShow": true
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          { "color": { "solid": { "color": "#1E293B" } }, "fontSize": 24, "fontFamily": "Segoe UI Semibold" }
+        ],
+        "categoryLabels": [
+          { "color": { "solid": { "color": "#64748B" } }, "fontSize": 11, "fontFamily": "Segoe UI" }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }
+        ],
+        "border": [
+          { "show": true, "color": { "solid": { "color": "#E2E8F0" } }, "radius": 8 }
+        ],
+        "header": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#1E293B" } },
+            "background": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 10
+          }
+        ],
+        "items": [
+          {
+            "fontColor": { "solid": { "color": "#334155" } },
+            "fontSize": 10,
+            "background": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    },
+    "clusteredColumnChart": {
+      "*": {
+        "dataPoint": [
+          { "solid": { "color": "#2563EB" } }
+        ]
+      }
+    },
+    "clusteredBarChart": {
+      "*": {
+        "dataPoint": [
+          { "solid": { "color": "#2563EB" } }
+        ]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "dataPoint": [
+          { "solid": { "color": "#F59E0B" } }
+        ]
+      }
+    },
+    "lineClusteredColumnComboChart": {
+      "*": {
+        "dataPoint": [
+          { "solid": { "color": "#2563EB" } }
+        ]
+      }
+    }
+  }
+}

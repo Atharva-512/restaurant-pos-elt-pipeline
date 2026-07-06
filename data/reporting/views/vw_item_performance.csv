@@ -429,9 +429,9 @@ Dal Dhokli (Gujarati),Thepla House Special,12.0,3636.0,303.0
 Bread Omelette,Indian Meals & Roti [SC],36.0,3605.0,101.67
 Sev Puri,Chaat Corner [O],30.0,3600.0,120.0
 Matki (Math) Ki Sabji [O],Sabji Only [O],14.0,3596.0,234.0
-Paneer Bhurji,Paneer,10.0,3590.0,359.0
-Tufani Paneer With Paratha,Paneer Lovers ! [O],10.0,3590.0,359.0
 Paneer Makhanwala With Paratha,Paneer Lovers ! [O],10.0,3590.0,359.0
+Tufani Paneer With Paratha,Paneer Lovers ! [O],10.0,3590.0,359.0
+Paneer Bhurji,Paneer,10.0,3590.0,359.0
 Healthy Bajra Pizza.,Healthy Pizza [O],11.0,3553.0,323.0
 Flower Mutter Mix Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],13.0,3500.0,140.0
 Bombay Masala Toast Sandwich,Sandwich Corner [O],29.0,3471.0,119.74
@@ -471,10 +471,10 @@ Shradh Bhoj Thali,Thali - Bhojanam [H&H],8.0,2552.0,319.0
 Dal Tadka,Gujarati Favourite Corner,13.0,2535.0,195.0
 South Indian Thali,Thali - Bhojanam [H&H],9.0,2514.0,282.29
 Koki Paratha With Curd (2 Pcs),Thepla House Special,12.0,2508.0,209.0
-jhunka kg,Open Item,5.0,2500.0,500.0
-Nimbu Pani 200ml,Indian Meals & Roti [SC],100.0,2500.0,25.0
-NIMBU PANI,Indian Meals & Roti [SC],100.0,2500.0,25.0
 bhaleli vangi kg,Open Item,5.0,2500.0,500.0
+jhunka kg,Open Item,5.0,2500.0,500.0
+NIMBU PANI,Indian Meals & Roti [SC],100.0,2500.0,25.0
+Nimbu Pani 200ml,Indian Meals & Roti [SC],100.0,2500.0,25.0
 Gujarati Kadi [O],"Dal, Rice, Khichadi & Kadi [O]",11.0,2497.0,227.0
 Patra [O],Breakfast & Snacks [O],10.0,2490.0,250.29
 Chana Masala Sabji [O],Sabji Only [O],14.0,2475.0,240.63
@@ -509,9 +509,9 @@ Rajasthani Besan Gatta Meal .,Homely & Healthy,7.0,2023.0,289.0
 Garlic Thepla (4 Pcs),Thepla,20.0,2016.0,104.44
 Paneer Makhanwala [O],Paneer Lovers ! [O],5.0,1995.0,399.0
 Black Coffee [SC],Beverages [SC],48.0,1920.0,40.0
-Gujarati Khichdi (Moong Dal) / Gujarati Kadi [O],"Dal, Rice, Khichadi & Kadi [O]",7.0,1890.0,270.0
-Masala Maggi [SC],Maggi & Pasta [SC],27.0,1890.0,70.0
 Masala Puri [O],Puri [O],15.0,1890.0,129.2
+Masala Maggi [SC],Maggi & Pasta [SC],27.0,1890.0,70.0
+Gujarati Khichdi (Moong Dal) / Gujarati Kadi [O],"Dal, Rice, Khichadi & Kadi [O]",7.0,1890.0,270.0
 Marvadi Kadi [O],"Dal, Rice, Khichadi & Kadi [O]",8.0,1864.0,233.0
 Churma Ladoo. [o],Travel Companion [O],9.0,1843.0,202.67
 Aloo - Pyaz Sabji [O],Sabji Only [O],7.0,1841.0,263.0
@@ -528,15 +528,15 @@ Methi Thepla With Dahi (4 Pcs),Thepla House Special,16.0,1744.0,109.0
 Sabudana Khichdi,Snacks,11.0,1705.0,155.0
 Rajgira Puri (5 Piece) [O],Fasting [O],9.0,1692.0,188.0
 Gujarati Khichdi (Moong Dal),Rice / Khichdi,7.0,1680.0,240.0
-Steam Rice [O],"Dal, Rice, Khichadi & Kadi [O]",8.0,1672.0,209.0
-Panki (2 Pc),Snacks / Appetizers,8.0,1672.0,209.0
 Puri-Bhaji,Thepla House Special,8.0,1672.0,209.0
+Panki (2 Pc),Snacks / Appetizers,8.0,1672.0,209.0
+Steam Rice [O],"Dal, Rice, Khichadi & Kadi [O]",8.0,1672.0,209.0
 Gujarati Dal,Dal / Kadi,7.0,1652.0,236.0
 Lasuni Bataka Sabji [O],Sabji Only [O],6.0,1650.0,275.0
-Steamed Rice,Gujarati Favourite Corner,10.0,1650.0,165.0
 PASTA,Indian Meals & Roti [SC],28.0,1650.0,55.0
-Healthy Pizza (BAJRI),Pizza,5.0,1615.0,323.0
+Steamed Rice,Gujarati Favourite Corner,10.0,1650.0,165.0
 Healthy Pizza (JAWAR),Pizza,5.0,1615.0,323.0
+Healthy Pizza (BAJRI),Pizza,5.0,1615.0,323.0
 Fafda,Breakfast & Snacks [O],9.0,1611.0,179.0
 Paneer Bhurji [O],Paneer Lovers ! [O],4.0,1596.0,399.0
 Wheat Phulka Roti (1 Pc),Roti / Rotla / Puri,53.0,1590.0,30.0
@@ -547,8 +547,8 @@ Mineral Water,Beverages,143.0,1560.0,14.17
 Executive Paneer Thali .,Homely & Healthy,4.0,1556.0,389.0
 Nimbu Pani [O],Beverages [O],21.0,1554.0,74.0
 masala bhat,Open Item,3.0,1500.0,500.0
-Gujarati Dal Dhokli,Gujarati Favourite Corner,6.0,1494.0,249.0
 Fajeto,Aamras [H&H],6.0,1494.0,249.0
+Gujarati Dal Dhokli,Gujarati Favourite Corner,6.0,1494.0,249.0
 Water Bottle 500ml [o],Beverages [O],85.0,1477.5,16.22
 Upwas Aloo Sabji (Fasting) [O],Fasting [O],7.0,1449.0,207.0
 "Pav-Bhaji, Pulav & Dahi Fry Combo [O]",Biryani & Pulav [O],4.0,1444.0,361.0
@@ -556,15 +556,15 @@ event fix thali,Indian Meals & Roti [SC],9.0,1429.0,158.78
 Masala Pav (2 Piece),Express Combos [O],7.0,1428.0,204.0
 Jowar Pizza,Healthy Pizza,5.0,1425.0,285.0
 Vegetable Biryani With Veg Raita (Regular),Pulav / Biryani,6.0,1410.0,235.0
-Idlis With Chutney & Sambar,Snacks,10.0,1400.0,140.0
 Boiled Egg [SC],Egg Specials [SC],56.0,1400.0,25.0
+Idlis With Chutney & Sambar,Snacks,10.0,1400.0,140.0
 Kadi Pakoda Rice Bowl .,Homely & Healthy,5.0,1395.0,279.0
 Tava Pulav With Veg Raita,Thepla House Special,6.0,1380.0,230.0
 Fajeto Aamras - Thali [o],Aamras [O],4.0,1376.0,344.0
 Aloo Bhaji (SUKHA),Gujarati,5.0,1375.0,275.0
 Masala Puri (5 Pcs),Roti / Rotla / Puri,11.0,1364.0,124.0
-Fansi Dhokdi Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],4.0,1360.0,340.0
 Besan Gatte Ki Sabji With Phulka Roti & Khichdi Kadi [O],Express Combos [O],6.0,1360.0,226.67
+Fansi Dhokdi Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],4.0,1360.0,340.0
 Samosa Chaat [O],Breakfast & Snacks [O],6.0,1338.0,223.0
 Bajri Roti (1 Pc),Roti / Rotla / Puri,17.0,1275.0,75.0
 Sabudana Vada,Snacks,8.0,1240.0,155.0
@@ -577,26 +577,26 @@ Aloo Palak Sabji [O],Sabji Only [O],4.0,1172.0,293.0
 Matki (Math) Ki Sabji,Gujarati,4.0,1172.0,293.0
 Plain Puri (5 Pcs),Roti / Rotla / Puri,11.0,1150.0,104.5
 Dahi Vada,Snacks,10.0,1150.0,115.0
-White Dhokla,Breakfast And Snacks [HH],5.0,1140.0,228.0
 7up 400ml,Beverages [O],38.0,1140.0,30.0
+White Dhokla,Breakfast And Snacks [HH],5.0,1140.0,228.0
 Lasaniya Aloo Sabji With Phulka Roti [O],Express Combos [O],3.0,1131.0,377.0
 Thali- Baigan Bharta [O],Corporate Special Thali [O],3.0,1122.0,374.0
 Guvar Dhokdi Sabji [O],Sabji Only [O],4.0,1120.0,280.0
 Paneer Makhani Rice Bowl .,Homely & Healthy,4.0,1116.0,279.0
 Gujarati Kadi,Dal / Kadi,5.0,1110.0,222.0
 Dal Palak [O],Sabji Only [O],4.0,1100.0,275.0
-Aloo Bhaji (RASA),Gujarati,6.0,1100.0,220.0
 Dry Chatpata Chana Sabji [O],Sabji Only [O],4.0,1100.0,275.0
-Boiled Egg,Indian Meals & Roti [SC],55.0,1100.0,20.0
+Aloo Bhaji (RASA),Gujarati,6.0,1100.0,220.0
 Chana Salad [SC],Salads [SC],10.0,1100.0,110.0
-Aloo Mutter Sabji,Gujarati,4.0,1080.0,270.0
+Boiled Egg,Indian Meals & Roti [SC],55.0,1100.0,20.0
 Cheese Paratha [O],Paratha [O],4.0,1080.0,270.0
+Aloo Mutter Sabji,Gujarati,4.0,1080.0,270.0
 Paneer Makhanwala,Paneer,3.0,1077.0,359.0
 Besan Pitlu With Jowar Bhakhari Meal .,Homely & Healthy,4.0,1076.0,269.0
 "Sabudana Khichdi (250 ML) , Sabudana Vada (2 Pcs) Combo [O]",Fasting [O],4.0,1060.0,265.0
 Gur Papadi. [O],Travel Companion [O],5.0,1045.0,209.0
-Upwas Farali Mishal [O],Fasting [O],4.0,1040.0,260.0
 Chocolate Sandwich [SC],Sandwiches [SC],16.0,1040.0,65.0
+Upwas Farali Mishal [O],Fasting [O],4.0,1040.0,260.0
 Rasawala Aloo Sabji With Methi Thepla [O],Express Combos [O],3.0,1020.0,340.0
 Samosa 4pc,Breakfast & Snacks [O],2.0,1010.0,505.0
 Nimbu Pani,Indian Meals & Roti [SC],50.0,1000.0,20.0
@@ -616,24 +616,24 @@ Masala Maggi [O],Breakfast & Snacks [O],4.0,856.0,214.0
 Bajra Pizza,Healthy Pizza,3.0,855.0,285.0
 Jain Sev Tomato Sabji [O],Jain Top-Selling [O],3.0,846.0,282.0
 Pani Puri,Chat Corner [H&H],5.0,845.0,169.0
-Fixed Thali (Rice Thali) [SC],Indian Meals & Roti [SC],7.0,840.0,120.0
 Dahi Puri,Chaat Corner [O],7.0,840.0,120.0
+Fixed Thali (Rice Thali) [SC],Indian Meals & Roti [SC],7.0,840.0,120.0
 Kadai Paneer Rice Bowl .,Homely & Healthy,3.0,837.0,279.0
 Palak Khichdi Bowl .,Homely & Healthy,3.0,837.0,279.0
 Masala Chaas,Beverages,19.0,833.0,44.55
 EVENT THALI,Indian Meals & Roti [SC],5.0,829.0,165.8
 Aloo Methi Sabji [O],Sabji Only [O],3.0,825.0,275.0
-Mango Sheera [o],Aamras [O],4.0,796.0,199.0
 Gur Papadi [O],Dessert [O],4.0,796.0,199.0
 Rava Sheera [O],Dessert [O],4.0,796.0,199.0
+Mango Sheera [o],Aamras [O],4.0,796.0,199.0
 event thali,Indian Meals & Roti [SC],5.0,783.0,151.5
 Dabeli - Single Piece .,Homely & Healthy,11.0,781.0,71.0
 Samo With Curd (Bhagar) [O],Fasting [O],4.0,780.0,195.0
 Amritshari Paneer Paratha [O],Paratha [O],3.0,774.0,258.0
 Panchmel Dal [O],"Dal, Rice, Khichadi & Kadi [O]",3.0,767.0,255.67
+Guvar Dhokdi Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],2.0,754.0,377.0
 Flower Potato Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],2.0,754.0,377.0
 Masala Bhindi Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],2.0,754.0,377.0
-Guvar Dhokdi Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],2.0,754.0,377.0
 Dudhi Chana Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],2.0,754.0,377.0
 Tejal'S Kitchen Special Upwas Thali,Thali Bhojanam,2.0,752.0,376.0
 Lasaniya Aloo,Regular Sabji,3.0,747.0,249.0
@@ -644,8 +644,8 @@ Salad Bhel .,Homely & Healthy,3.0,732.0,244.0
 Dabeli [O],Breakfast & Snacks [O],5.0,730.0,146.0
 Chilka Wali Moong Dal Khichdi,Rice / Khichdi,3.0,723.0,241.0
 Curd Rice,Rice / Khichdi,3.0,723.0,241.0
-Bombay Masala Toast Sandwich,Sandwich Corner [H&H],5.0,720.0,144.0
 Lasuni Bataka Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],2.0,720.0,360.0
+Bombay Masala Toast Sandwich,Sandwich Corner [H&H],5.0,720.0,144.0
 Mutter Paneer,Paneer,2.0,718.0,359.0
 Palak Paneer,Paneer,2.0,718.0,359.0
 Chole-Puri [O],Express Combos [O],3.0,717.0,239.0
@@ -679,12 +679,12 @@ Rajgira Sheera [O],Dessert [O],3.0,597.0,199.0
 Chokha (Rice) Roti,Roti / Rotla / Puri,9.0,585.0,65.0
 Masala Maggi,Snacks,5.0,565.0,115.0
 Dudhi Chana Sabji [O],Sabji Only [O],2.0,560.0,280.0
-Patta Kobi Sabji [O],Sabji Only [O],2.0,560.0,280.0
 Churma Ladoo (2 Pcs),Dessert,8.0,560.0,70.0
+Patta Kobi Sabji [O],Sabji Only [O],2.0,560.0,280.0
 Dal Tadka Rice Bowl .,Homely & Healthy,2.0,558.0,279.0
 Mix Veg Rice Bowl .,Homely & Healthy,2.0,558.0,279.0
-Bajri Roti (1 Piece),Thepla House Special,7.0,550.0,78.33
 Tomato-Onion Sabji [O],Sabji Only [O],2.0,550.0,275.0
+Bajri Roti (1 Piece),Thepla House Special,7.0,550.0,78.33
 Ringada Bataka Sabji,Gujarati,2.0,540.0,270.0
 Baingan Bhartha Sabji,Regular Sabji,2.0,538.0,269.0
 Methi Thepla Combo (3 Methi Thepla & 2 Koki Paratha) [O],Breakfast & Snacks [O],3.0,530.0,176.67
@@ -695,28 +695,28 @@ Mix Vegetable,Regular Sabji,2.0,518.0,259.0
 EXTRA PAV,ADD-ONS & EXTRAS,34.0,510.0,15.0
 Aloo Paratha,Snacks / Appetizers,3.0,507.0,169.0
 only dinner,Indian Meals & Roti [SC],2.0,500.0,250.0
+only lunch,Indian Meals & Roti [SC],2.0,500.0,250.0
+EVENT ONLY LUNCH,Indian Meals & Roti [SC],2.0,500.0,250.0
+Banana 12pc,Indian Meals & Roti [SC],5.0,500.0,100.0
 BANANA 12 PC,Indian Meals & Roti [SC],5.0,500.0,100.0
 Dal Rice [SC],Indian Meals & Roti [SC],5.0,500.0,100.0
-EVENT ONLY LUNCH,Indian Meals & Roti [SC],2.0,500.0,250.0
-only lunch,Indian Meals & Roti [SC],2.0,500.0,250.0
-Banana 12pc,Indian Meals & Roti [SC],5.0,500.0,100.0
-Rajasthani Dal Dhokli,Rajasthani Special,2.0,498.0,249.0
 Kanda Methi Bhaji,Regular Sabji,2.0,498.0,249.0
+Rajasthani Dal Dhokli,Rajasthani Special,2.0,498.0,249.0
 Samosa - Single Piece .,Homely & Healthy,7.0,497.0,71.0
 Jeera Rice,Gujarati Favourite Corner,3.0,495.0,165.0
 Chana Moong Chatpata Salad .,Homely & Healthy,2.0,490.0,245.0
 Masala Khichdi [SC],Indian Meals & Roti [SC],4.0,480.0,120.0
 Double Tadka Dal Khichdi With Dahi Fry & Papad,Gujarati Favourite Corner,2.0,478.0,239.0
+Sabudana Vada,Snacks / Appetizers,3.0,477.0,159.0
 French Fries [O],Breakfast & Snacks [O],3.0,477.0,159.0
 Mini Batata Vada (6 Pc),Snacks / Appetizers,3.0,477.0,159.0
-Sabudana Vada,Snacks / Appetizers,3.0,477.0,159.0
 Aloo Methi Paratha [O],Paratha [O],2.0,470.0,235.0
 Gobi Paratha [O],Paratha [O],2.0,470.0,235.0
 Kadi Pakoda,Dal / Kadi,2.0,464.0,232.0
 Tava Pulao,Gujarati Favourite Corner,2.0,458.0,229.0
 ONLY DINNER,Indian Meals & Roti [SC],2.0,450.0,225.0
-MILK HALF GLASS,Indian Meals & Roti [SC],18.0,450.0,25.0
 thali,Indian Meals & Roti [SC],3.0,450.0,150.0
+MILK HALF GLASS,Indian Meals & Roti [SC],18.0,450.0,25.0
 EVENT ONLY DINNER,Indian Meals & Roti [SC],2.0,450.0,225.0
 Dahi Puri,Chaat Corner,5.0,445.0,89.0
 Mumbai Chowpatty Chana Chat .,Homely & Healthy,2.0,438.0,219.0
@@ -727,8 +727,8 @@ Bread Butter [SC],Breakfast & Snacks [SC],17.0,425.0,25.0
 Bhel Puri,Chat Corner [H&H],3.0,420.0,140.0
 Omelette [sc],Egg Specials [SC],9.0,405.0,45.0
 Upwas Aloo Sabji,Gujarati,2.0,404.0,202.0
-papad,Open Item,40.0,400.0,10.0
 BANANA 12PC,Indian Meals & Roti [SC],4.0,400.0,100.0
+papad,Open Item,40.0,400.0,10.0
 Resmi Paneer [O],Paneer Lovers ! [O],1.0,399.0,399.0
 Pav Bhaji,Gujarati Favourite Corner,2.0,398.0,199.0
 Dabeli (1 Pc),Snacks,6.0,396.0,66.0
@@ -746,15 +746,15 @@ Rice Kheer [O],Dessert [O],2.0,370.0,185.0
 Thali- Dal Dhokli [O],Corporate Special Thali [O],1.0,369.0,369.0
 Rajgira Puri (5 Pcs),Roti / Rotla / Puri,2.0,366.0,183.0
 Egg Fried Rice [SC],Noodles & Rice [SC],3.0,360.0,120.0
-Kadai Paneer With Paratha [O],Paneer Lovers ! [O],1.0,359.0,359.0
 Paneer Makhanwala With Paratha [O],Paneer Lovers ! [O],1.0,359.0,359.0
+Kadai Paneer With Paratha [O],Paneer Lovers ! [O],1.0,359.0,359.0
 Cheese Chutney Sandwich,Sandwich Corner [O],3.0,357.0,119.0
 PALAK METHI DALFRY JEERA RICE PARATHA,Open Item,1.0,350.0,350.0
 Gatta Pulav With Veg Raita [O],Biryani & Pulav [O],1.0,344.0,344.0
 Classic Maggi [O],Breakfast & Snacks [O],2.0,342.0,171.0
 Matki (Math) Ki Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],1.0,340.0,340.0
-Aloo - Pyaz Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],1.0,340.0,340.0
 Fansi Dhokdi Sabji With Phulka Roti [O],Express Combos [O],1.0,340.0,340.0
+Aloo - Pyaz Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],1.0,340.0,340.0
 Kadai Paneer[hh],Sabji Only [HH],1.0,339.0,339.0
 Jain Rice Khichiyu,Jain Special,2.0,338.0,169.0
 Bombay Masala Toast Sandwich,Sandwich,3.0,330.0,110.0
@@ -763,47 +763,47 @@ Healthy Jawar Pizza [O],Healthy Pizza [O],1.0,323.0,323.0
 Dahi Bhindi Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],1.0,322.0,322.0
 Aloo Methi Sabji With Phulka Roti [O],Express Combos [O],1.0,322.0,322.0
 Sev Tomato Sabji With Phulka Roti [O],Express Combos [O],1.0,322.0,322.0
+Moong Dal Bhajiya.,Snacks / Appetizers,2.0,318.0,159.0
 Jain Methi Gotta,Jain Special,2.0,318.0,159.0
 Moong Dal Bhajiya,Thepla House Special,2.0,318.0,159.0
 Mini Batata Vada (6 Pcs),Thepla House Special,2.0,318.0,159.0
-Moong Dal Bhajiya.,Snacks / Appetizers,2.0,318.0,159.0
-Veg Cheese Toast Sandwich,Sandwich Corner [O],2.0,316.0,158.0
 Puran Poli (1 Pcs),Sweets,4.0,316.0,79.0
+Veg Cheese Toast Sandwich,Sandwich Corner [O],2.0,316.0,158.0
 Dry Chatpata Chana Masala Sabji With Phulka Roti & Dal Rice [O],Express Combos [O],1.0,312.0,312.0
 punjabi thali,Open Item,1.0,309.0,309.0
 Marvadi Kadi With Chilka Wali Moong Dal Khichdi [O],"Dal, Rice, Khichadi & Kadi [O]",1.0,303.0,303.0
 Nachani Roti [O],Roti [O],2.0,302.0,151.0
-Ghee Aloo Paratha (1 Piece),Paratha,3.0,300.0,100.0
-banana,Indian Meals & Roti [SC],3.0,300.0,100.0
-BANANA - 12 PC,Indian Meals & Roti [SC],3.0,300.0,100.0
 Banana 12 pc,Indian Meals & Roti [SC],3.0,300.0,100.0
-Chana Masala .,Homely & Healthy,1.0,299.0,299.0
+banana,Indian Meals & Roti [SC],3.0,300.0,100.0
+Ghee Aloo Paratha (1 Piece),Paratha,3.0,300.0,100.0
+BANANA - 12 PC,Indian Meals & Roti [SC],3.0,300.0,100.0
 Fajeto Meal .,Homely & Healthy,1.0,299.0,299.0
-Kanda Methi Bhaji [O],Sabji Only [O],1.0,298.0,298.0
+Chana Masala .,Homely & Healthy,1.0,299.0,299.0
 Papad Ki Sabji [O],Rajasthani Dishes [O],5.0,298.0,126.5
+Kanda Methi Bhaji [O],Sabji Only [O],1.0,298.0,298.0
 FIX THALI,Indian Meals & Roti [SC],2.0,293.0,146.5
 Rajasthani Dal Bati Meal .,Homely & Healthy,1.0,289.0,289.0
 Jain Patta Kobi Sabji [O],Jain Top-Selling [O],1.0,288.0,288.0
-EVENT THALI LIMITED,Indian Meals & Roti [SC],2.0,286.0,143.0
 EVENT VEG THALI,Indian Meals & Roti [SC],2.0,286.0,143.0
+EVENT THALI LIMITED,Indian Meals & Roti [SC],2.0,286.0,143.0
 Jain Jowar Pizza,Jain Special,1.0,285.0,285.0
+idli,Open Item,2.0,280.0,140.0
 Half Fry [sc],Egg Specials [SC],7.0,280.0,40.0
 masala chai,Open Item,3.0,280.0,93.33
-idli,Open Item,2.0,280.0,140.0
 Rajma Chawal Rice Bowl .,Homely & Healthy,1.0,279.0,279.0
 Lasooni Dal Fry Rice Bowl .,Homely & Healthy,1.0,279.0,279.0
+Chole Masala Rice Bowl .,Homely & Healthy,1.0,279.0,279.0
 Dal Khichdi Bowl .,Homely & Healthy,1.0,279.0,279.0
 Paneer Bhurji Rice Bowl .,Homely & Healthy,1.0,279.0,279.0
-Chole Masala Rice Bowl .,Homely & Healthy,1.0,279.0,279.0
 Jain Gujarati Dal Rice [O],Jain Top-Selling [O],1.0,276.0,276.0
+Vegetable Biryani With Veg Raita (With Paneer),Pulav / Biryani,1.0,275.0,275.0
 Simala Mirchi - Bataka Sabji [O],Sabji Only [O],1.0,275.0,275.0
 Ringada Bataka Sabji [O],Sabji Only [O],1.0,275.0,275.0
-Vegetable Biryani With Veg Raita (With Paneer),Pulav / Biryani,1.0,275.0,275.0
 Extra Pav [O],Express Combos [O],8.0,271.0,33.88
 Masala Bhindi Sabji,Regular Sabji,1.0,269.0,269.0
 paneer partha,Open Item,1.0,265.0,265.0
-Egg Gotala [SC],Egg Curies [SC],2.0,260.0,130.0
 French Fries (Salted),Snacks,2.0,260.0,130.0
+Egg Gotala [SC],Egg Curies [SC],2.0,260.0,130.0
 Makkai Roti (1 Pc),Roti / Rotla / Puri,4.0,260.0,65.0
 Mix Vegetable (Jain),Jain Special,1.0,259.0,259.0
 Sev Tomato Sabji,Gujarati,1.0,256.0,256.0
@@ -811,50 +811,50 @@ Jain Steam Muthia With Green Chutney [O],Jain Top-Selling [O],1.0,254.0,254.0
 CURD,ADD-ONS & EXTRAS,10.0,250.0,25.0
 ONLY LUNCH,Indian Meals & Roti [SC],1.0,250.0,250.0
 Besan Gatta Sabji,Regular Sabji,1.0,249.0,249.0
+Kathiyawadi Sev Tamatar Ki Sabji,Regular Sabji,1.0,249.0,249.0
 Kathiyawadi Sev Tamatar Ki Sabji (Rajasthani Special),Rajasthani Special,1.0,249.0,249.0
 Jain Besan Gatta,Jain Special,1.0,249.0,249.0
-Kathiyawadi Sev Tamatar Ki Sabji,Regular Sabji,1.0,249.0,249.0
-Misal Pav .,Homely & Healthy,1.0,244.0,244.0
-Aamras 300 Ml .,Homely & Healthy,1.0,244.0,244.0
 Varan Bhat .,Homely & Healthy,1.0,244.0,244.0
+Aamras 300 Ml .,Homely & Healthy,1.0,244.0,244.0
+Misal Pav .,Homely & Healthy,1.0,244.0,244.0
 Chass [sc],Beverages [SC],8.0,240.0,30.0
 Jeera Paratha [O],Paratha [O],2.0,240.0,120.0
 Masala Bhakhari [O],Paratha [O],1.0,239.0,239.0
 jeera bhakhari,Open Item,1.0,239.0,239.0
 ONLY DINNER EVENT,Indian Meals & Roti [SC],1.0,238.0,238.0
-event dinner,Indian Meals & Roti [SC],1.0,238.0,238.0
 event only dinner,Indian Meals & Roti [SC],1.0,238.0,238.0
+event lunch,Indian Meals & Roti [SC],1.0,238.0,238.0
+event dinner,Indian Meals & Roti [SC],1.0,238.0,238.0
 Vegetable Cheese Sandwich,Sandwich Corner [O],2.0,238.0,119.0
 Event ONLY Lunch Thali,Indian Meals & Roti [SC],1.0,238.0,238.0
-event lunch,Indian Meals & Roti [SC],1.0,238.0,238.0
 Puran Poli (1 Pc),Thepla House Special,3.0,237.0,79.0
 Aloo Gobi Paratha [O],Paratha [O],1.0,235.0,235.0
-White Dhokla .,Homely & Healthy,1.0,234.0,234.0
 Churma Ladoo (1 Pcs),Sweets,6.0,234.0,39.0
+White Dhokla .,Homely & Healthy,1.0,234.0,234.0
 Puri Bhaji Meal .,Homely & Healthy,1.0,229.0,229.0
 Rajgira Sheera,Dessert,1.0,229.0,229.0
 Marvadi Kadi,Dal / Kadi,1.0,228.0,228.0
 Batata Kanda Poha,Snacks,2.0,226.0,113.0
 Mix. Veg Maggi Bowl .,Homely & Healthy,1.0,219.0,219.0
-Patra,Snacks,1.0,218.0,218.0
 Ragda Chaat,Chaat Corner,1.0,218.0,218.0
+Patra,Snacks,1.0,218.0,218.0
 misal pav,Open Item,1.0,218.0,218.0
 Vada Pav - Single Piece .,Homely & Healthy,3.0,213.0,71.0
 Sprouts Salad - Moong [O],Salad [O],1.0,213.0,213.0
-Jeera Paratha,Roti / Rotla / Puri,6.0,210.0,35.0
 Bread Jam [SC],Breakfast & Snacks [SC],7.0,210.0,30.0
+Jeera Paratha,Roti / Rotla / Puri,6.0,210.0,35.0
 Jain Panki (2 Pcs),Jain Special,1.0,209.0,209.0
-fix thali event,Indian Meals & Roti [SC],1.0,200.0,200.0
-BREAD OMELATTE,Indian Meals & Roti [SC],2.0,200.0,100.0
-EXTRA PAV MASALA,ADD-ONS & EXTRAS,8.0,200.0,25.0
+LUNCH THALI FIX,Indian Meals & Roti [SC],1.0,200.0,200.0
 Hot Milk [SC],Beverages [SC],4.0,200.0,50.0
 only lunch fix thali,Indian Meals & Roti [SC],1.0,200.0,200.0
-LUNCH THALI FIX,Indian Meals & Roti [SC],1.0,200.0,200.0
+fix thali event,Indian Meals & Roti [SC],1.0,200.0,200.0
+EXTRA PAV MASALA,ADD-ONS & EXTRAS,8.0,200.0,25.0
+BREAD OMELATTE,Indian Meals & Roti [SC],2.0,200.0,100.0
+Gulab Jamun (2 Pcs),Sweets,5.0,195.0,39.0
 Veggie Farm Fresh Pizza [O],Healthy Pizza [O],1.0,195.0,195.0
 Cheese Margherita Pizza,Healthy Pizza [O],1.0,195.0,195.0
-Gulab Jamun (2 Pcs),Sweets,5.0,195.0,39.0
-EVENT LUNCH,Indian Meals & Roti [SC],1.0,190.0,190.0
 Sabudana Kheer - Fasting [O],Fasting [O],1.0,190.0,190.0
+EVENT LUNCH,Indian Meals & Roti [SC],1.0,190.0,190.0
 EVENT DINNER,Indian Meals & Roti [SC],1.0,190.0,190.0
 Chana Chat [O],Breakfast & Snacks [O],1.0,180.0,180.0
 Phulka Roti,Indian Meals & Roti [SC],9.0,180.0,20.0
@@ -862,72 +862,72 @@ Steam Muthiya,Snacks / Appetizers,1.0,179.0,179.0
 masala khichya,Open Item,2.0,178.0,89.0
 Masala Khichiya,Extras,6.0,174.0,29.0
 Veg Cheese Toast Sandwich,Sandwich Corner [H&H],1.0,173.0,173.0
+Koki Paratha With Curd (2 Pc),Snacks / Appetizers,1.0,169.0,169.0
 White Dhokla,Snacks / Appetizers,1.0,169.0,169.0
 Dal Besan Chilla,Snacks / Appetizers,1.0,169.0,169.0
-Koki Paratha With Curd (2 Pc),Snacks / Appetizers,1.0,169.0,169.0
 Methi Thepla (2 Pcs),Extras,3.0,162.0,54.0
 Papad Churi .,Homely & Healthy,1.0,159.0,159.0
-Veg Cheese Toast Sandwich [O],Sandwich Corner [O],1.0,158.0,158.0
 Paneer Cheese Toast Sandwich [O],Sandwich Corner [O],1.0,158.0,158.0
+Veg Cheese Toast Sandwich [O],Sandwich Corner [O],1.0,158.0,158.0
 idli sambhar,Indian Meals & Roti [SC],3.0,157.0,53.5
 Makkai Roti [O],Roti [O],1.0,151.0,151.0
 Chokha (Rice) Roti [O],Roti [O],1.0,151.0,151.0
 Jain Poha (Jain Preparation) [O],Jain Top-Selling [O],1.0,150.0,150.0
 salad,Open Item,1.0,150.0,150.0
-Biscuits [sc],Beverages [SC],15.0,150.0,10.0
-Miranda 400ml [o],Beverages [O],7.0,150.0,21.67
+Pasta,Indian Meals & Roti [SC],3.0,150.0,50.0
 Veg Cheese Toast Sandwich,Sandwich,1.0,150.0,150.0
 French Fries (Peri Peri),Snacks,1.0,150.0,150.0
 Chutney Sandwich [SC],Sandwiches [SC],5.0,150.0,30.0
-Pasta,Indian Meals & Roti [SC],3.0,150.0,50.0
+Biscuits [sc],Beverages [SC],15.0,150.0,10.0
+Miranda 400ml [o],Beverages [O],7.0,150.0,21.67
 Sabudana Khichdi,Snacks / Appetizers,1.0,149.0,149.0
 upma,Indian Meals & Roti [SC],3.0,144.0,48.0
 Samosa (1 Pc),Snacks,2.0,142.0,71.0
-Dahi Puri,Chat Corner [H&H],1.0,140.0,140.0
-Upma,Snacks,1.0,140.0,140.0
 Open Item,Open Item,2.0,140.0,70.0
-French fries,Open Item,1.0,130.0,130.0
+Upma,Snacks,1.0,140.0,140.0
+Dahi Puri,Chat Corner [H&H],1.0,140.0,140.0
 7up 400ml [o],Beverages [O],5.0,130.0,25.0
+French fries,Open Item,1.0,130.0,130.0
 masala puri,Open Item,1.0,124.0,124.0
-Veg Fried Rice [SC],Noodles & Rice [SC],1.0,120.0,120.0
-THALI,Indian Meals & Roti [SC],1.0,120.0,120.0
-ROTI SABJI ONLY,Indian Meals & Roti [SC],1.0,120.0,120.0
 Sabji Roti [SC],Indian Meals & Roti [SC],1.0,120.0,120.0
 Pepsi 400ml [o],Beverages [O],5.0,120.0,26.67
 Dal Khichdi [SC],Indian Meals & Roti [SC],1.0,120.0,120.0
+THALI,Indian Meals & Roti [SC],1.0,120.0,120.0
+Veg Fried Rice [SC],Noodles & Rice [SC],1.0,120.0,120.0
+ROTI SABJI ONLY,Indian Meals & Roti [SC],1.0,120.0,120.0
 Vegetable Cheese Sandwich [O],Sandwich Corner [O],1.0,119.0,119.0
 Kutchi Dabeli [1 Pc],Snacks / Appetizers,2.0,118.0,59.0
-ONLY SABJI ROTI,Indian Meals & Roti [SC],1.0,114.0,114.0
 PURI SABJI ONLY,Indian Meals & Roti [SC],1.0,114.0,114.0
-Mix Salad [SC],Salads [SC],1.0,110.0,110.0
+ONLY SABJI ROTI,Indian Meals & Roti [SC],1.0,114.0,114.0
 Bread 1 pkt,Indian Meals & Roti [SC],1.0,110.0,110.0
 BREAD 1 PKT,Indian Meals & Roti [SC],1.0,110.0,110.0
+Mix Salad [SC],Salads [SC],1.0,110.0,110.0
 bread omelette,Indian Meals & Roti [SC],1.0,100.0,100.0
 GREEN CHUTNEY,Open Item,1.0,100.0,100.0
 masala cheese maggie,Indian Meals & Roti [SC],1.0,90.0,90.0
 Nimbu Pani [sc],Beverages [SC],3.0,90.0,30.0
 Sev Puri,Chaat Corner,1.0,89.0,89.0
-pickel,Open Item,1.0,80.0,80.0
 Peanut Butter Sandwich [SC],Sandwiches [SC],1.0,80.0,80.0
 Masala Tea,Beverages [SC],4.0,80.0,20.0
+pickel,Open Item,1.0,80.0,80.0
 Phulka Roti [SC],Indian Meals & Roti [SC],4.0,80.0,20.0
-CHEESE CHUTNEY SANDWICH,Indian Meals & Roti [SC],1.0,70.0,70.0
-Nachni Roti (1 Pc),Roti / Rotla / Puri,1.0,70.0,70.0
-makai roti,Open Item,1.0,70.0,70.0
-Rice Rotla (1 Pc),Roti / Rotla / Puri,1.0,70.0,70.0
-Green Salad [SC],Salads [SC],1.0,70.0,70.0
-chai,Open Item,1.0,70.0,70.0
 Misal Pav [SC],Breakfast & Snacks [SC],1.0,70.0,70.0
+Rice Rotla (1 Pc),Roti / Rotla / Puri,1.0,70.0,70.0
+chai,Open Item,1.0,70.0,70.0
+CHEESE CHUTNEY SANDWICH,Indian Meals & Roti [SC],1.0,70.0,70.0
+Green Salad [SC],Salads [SC],1.0,70.0,70.0
+makai roti,Open Item,1.0,70.0,70.0
+Nachni Roti (1 Pc),Roti / Rotla / Puri,1.0,70.0,70.0
 tea,Open Item,1.0,69.0,69.0
+PAPAD,Open Item,4.0,60.0,15.0
 mirchi kuta,Open Item,2.0,60.0,30.0
 pepsi,Open Item,2.0,60.0,30.0
 Garlic chutney,Open Item,2.0,60.0,30.0
-PAPAD,Open Item,4.0,60.0,15.0
 ONLY SABJI,Indian Meals & Roti [SC],1.0,48.0,48.0
 SEVAIYAN,Indian Meals & Roti [SC],1.0,48.0,48.0
 water bottle 500ml,Open Item,4.0,40.0,10.0
-BREAD PAKODA,Indian Meals & Roti [SC],1.0,40.0,40.0
 water bottle,Open Item,4.0,40.0,10.0
+BREAD PAKODA,Indian Meals & Roti [SC],1.0,40.0,40.0
 miranda,Open Item,1.0,30.0,30.0
 MIRCHI KUTA JAIN,Open Item,1.0,30.0,30.0
 methi thepla,Open Item,1.0,27.0,27.0
@@ -936,6 +936,6 @@ Vada [sc],Breakfast & Snacks [SC],1.0,20.0,20.0
 1lr water bottle,Open Item,1.0,20.0,20.0
 BANANA,Indian Meals & Roti [SC],2.0,12.0,6.0
 water,Open Item,1.0,10.0,10.0
+masala khichdi,Open Item,1.0,0.0,0.0
 Flower Mutter Mix Sabji With Phulka Roti [O],Express Combos [O],1.0,0.0,0.0
 Paneer Bhurji With Paratha [O],Paneer Lovers ! [O],1.0,0.0,0.0
-masala khichdi,Open Item,1.0,0.0,0.0

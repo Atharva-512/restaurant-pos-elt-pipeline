@@ -395,8 +395,8 @@ Water 500ml,433.0,4099.0,9.47,263
 Khaman Dhokla [O],18.0,4064.0,225.78,9
 Patta Kobi Mutter Sabji [O],19.0,4010.0,211.05,7
 South Indian Thali [O],12.0,3978.0,331.5,4
-Resmi Paneer Masala With Paratha,11.0,3949.0,359.0,11
 Besan Gatte Ki Sabji [O],15.0,3949.0,263.27,12
+Resmi Paneer Masala With Paratha,11.0,3949.0,359.0,11
 Gujarati Dal [O],19.0,3856.0,202.95,16
 Sev Tomato Sabji [O],14.0,3850.0,275.0,9
 Coffee [SC],96.0,3840.0,40.0,42
@@ -407,8 +407,8 @@ Misal Pav [O],16.0,3648.0,228.0,13
 Dal Dhokli (Gujarati),12.0,3636.0,303.0,12
 Bread Omelette,36.0,3605.0,100.14,3
 Matki (Math) Ki Sabji [O],14.0,3596.0,256.86,9
-Tufani Paneer With Paratha,10.0,3590.0,359.0,10
 Paneer Makhanwala With Paratha,10.0,3590.0,359.0,10
+Tufani Paneer With Paratha,10.0,3590.0,359.0,10
 Healthy Bajra Pizza.,11.0,3553.0,323.0,11
 Pani Puri,28.0,3548.0,126.71,22
 Flower Mutter Mix Sabji With Phulka Roti & Dal Rice [O],13.0,3500.0,269.23,5
@@ -439,13 +439,13 @@ Cucumber Tomato Salad,11.0,2695.0,245.0,11
 Batata Bhajiya (Pakoda) [O],16.0,2640.0,165.0,6
 Puri-Bhaji [O],11.0,2614.0,237.64,10
 Churma Ladoo [o],13.0,2613.0,201.0,12
-Gujarati Dal Rice [O],10.0,2560.0,256.0,9
 Gatorade 250ml [o],87.0,2560.0,29.43,8
+Gujarati Dal Rice [O],10.0,2560.0,256.0,9
 Koki Paratha With Curd (2 Pcs),12.0,2508.0,209.0,12
 Nimbu Pani 200ml,100.0,2500.0,25.0,1
+bhaleli vangi kg,5.0,2500.0,500.0,1
 NIMBU PANI,100.0,2500.0,25.0,1
 jhunka kg,5.0,2500.0,500.0,1
-bhaleli vangi kg,5.0,2500.0,500.0,1
 Gujarati Kadi [O],11.0,2497.0,227.0,10
 Patra [O],10.0,2490.0,249.0,6
 Chana Masala Sabji [O],14.0,2475.0,176.79,8
@@ -476,9 +476,9 @@ Rajasthani Besan Gatta Meal .,7.0,2023.0,289.0,4
 Garlic Thepla (4 Pcs),20.0,2016.0,100.8,18
 Paneer Makhanwala [O],5.0,1995.0,399.0,5
 Black Coffee [SC],48.0,1920.0,40.0,15
+Masala Puri [O],15.0,1890.0,126.0,10
 Gujarati Khichdi (Moong Dal) / Gujarati Kadi [O],7.0,1890.0,270.0,7
 Masala Maggi [SC],27.0,1890.0,70.0,22
-Masala Puri [O],15.0,1890.0,126.0,10
 Marvadi Kadi [O],8.0,1864.0,233.0,3
 Churma Ladoo. [o],9.0,1843.0,204.78,3
 Aloo - Pyaz Sabji [O],7.0,1841.0,263.0,6
@@ -495,15 +495,15 @@ Puri-Bhaji,8.0,1672.0,209.0,8
 Steam Rice [O],8.0,1672.0,209.0,8
 Panki (2 Pc),8.0,1672.0,209.0,6
 PASTA,28.0,1650.0,58.93,2
-Lasuni Bataka Sabji [O],6.0,1650.0,275.0,2
 Steamed Rice,10.0,1650.0,165.0,1
+Lasuni Bataka Sabji [O],6.0,1650.0,275.0,2
 Bhel Puri,13.0,1620.0,124.62,13
 Healthy Pizza (BAJRI),5.0,1615.0,323.0,5
 Healthy Pizza (JAWAR),5.0,1615.0,323.0,5
 Fafda,9.0,1611.0,179.0,8
 Paneer Bhurji [O],4.0,1596.0,399.0,4
-Wheat Phulka Roti (1 Pc),53.0,1590.0,30.0,11
 Paneer Cheese Paratha (6 Inch),6.0,1590.0,265.0,6
+Wheat Phulka Roti (1 Pc),53.0,1590.0,30.0,11
 Fresh Salad [O],9.0,1588.0,176.44,3
 Vegetable White Pulav [O],7.0,1568.0,224.0,4
 Mineral Water,143.0,1560.0,10.91,21
@@ -533,25 +533,25 @@ Bajri Roti (1 Pc),17.0,1275.0,75.0,4
 Rajasthani Ker Sangri Ki Sabji [O],3.0,1206.0,402.0,3
 Handvo.,6.0,1194.0,199.0,4
 Rice Khichiyu.,8.0,1183.0,147.88,8
-Matki (Math) Ki Sabji,4.0,1172.0,293.0,4
 Aloo Palak Sabji [O],4.0,1172.0,293.0,4
+Matki (Math) Ki Sabji,4.0,1172.0,293.0,4
 Gulab Jamun (2 Pcs),17.0,1155.0,67.94,10
 Plain Puri (5 Pcs),11.0,1150.0,104.55,10
 Lasaniya Aloo Sabji With Phulka Roti [O],3.0,1131.0,377.0,2
 Thali- Baigan Bharta [O],3.0,1122.0,374.0,3
 Guvar Dhokdi Sabji [O],4.0,1120.0,280.0,4
 Paneer Makhani Rice Bowl .,4.0,1116.0,279.0,4
-Aloo Bhaji (RASA),6.0,1100.0,183.33,5
-Chana Salad [SC],10.0,1100.0,110.0,10
-Boiled Egg,55.0,1100.0,20.0,1
 Dal Palak [O],4.0,1100.0,275.0,3
 Dry Chatpata Chana Sabji [O],4.0,1100.0,275.0,2
+Boiled Egg,55.0,1100.0,20.0,1
+Chana Salad [SC],10.0,1100.0,110.0,10
+Aloo Bhaji (RASA),6.0,1100.0,183.33,5
 Cheese Paratha [O],4.0,1080.0,270.0,4
 Besan Pitlu With Jowar Bhakhari Meal .,4.0,1076.0,269.0,2
 "Sabudana Khichdi (250 ML) , Sabudana Vada (2 Pcs) Combo [O]",4.0,1060.0,265.0,4
 Gur Papadi. [O],5.0,1045.0,209.0,1
-Chocolate Sandwich [SC],16.0,1040.0,65.0,10
 Upwas Farali Mishal [O],4.0,1040.0,260.0,4
+Chocolate Sandwich [SC],16.0,1040.0,65.0,10
 Rasawala Aloo Sabji With Methi Thepla [O],3.0,1020.0,340.0,2
 Samosa 4pc,2.0,1010.0,505.0,2
 Steam Muthiya .,4.0,996.0,249.0,4
@@ -578,9 +578,9 @@ Amritshari Paneer Paratha [O],3.0,774.0,258.0,2
 PAPAD,75.0,770.0,10.27,30
 Panchmel Dal [O],3.0,767.0,255.67,3
 Dudhi Chana Sabji With Phulka Roti & Dal Rice [O],2.0,754.0,377.0,2
+Masala Bhindi Sabji With Phulka Roti & Dal Rice [O],2.0,754.0,377.0,2
 Flower Potato Sabji With Phulka Roti & Dal Rice [O],2.0,754.0,377.0,2
 Guvar Dhokdi Sabji With Phulka Roti & Dal Rice [O],2.0,754.0,377.0,2
-Masala Bhindi Sabji With Phulka Roti & Dal Rice [O],2.0,754.0,377.0,2
 Tejal'S Kitchen Special Upwas Thali,2.0,752.0,376.0,2
 Lasaniya Aloo,3.0,747.0,249.0,3
 Vegetable Sandwich,8.0,744.0,93.0,7
@@ -611,8 +611,8 @@ Aamras Thali (unlimited),1.0,599.0,599.0,1
 Rajgira Sheera [O],3.0,597.0,199.0,2
 Chokha (Rice) Roti,9.0,585.0,65.0,5
 Churma Ladoo (2 Pcs),8.0,560.0,70.0,8
-Patta Kobi Sabji [O],2.0,560.0,280.0,2
 Dudhi Chana Sabji [O],2.0,560.0,280.0,2
+Patta Kobi Sabji [O],2.0,560.0,280.0,2
 Dal Tadka Rice Bowl .,2.0,558.0,279.0,2
 Mix Veg Rice Bowl .,2.0,558.0,279.0,2
 Tomato-Onion Sabji [O],2.0,550.0,275.0,2
@@ -624,25 +624,25 @@ Lasuni Palak Sabji [O],2.0,526.0,263.0,2
 Vada Pav [SC],21.0,525.0,25.0,10
 Mix Vegetable,2.0,518.0,259.0,1
 EXTRA PAV,34.0,510.0,15.0,13
-EVENT ONLY LUNCH,2.0,500.0,250.0,2
-Dal Rice [SC],5.0,500.0,100.0,5
-only lunch,2.0,500.0,250.0,2
 BANANA 12 PC,5.0,500.0,100.0,1
 only dinner,2.0,500.0,250.0,2
+only lunch,2.0,500.0,250.0,2
 Banana 12pc,5.0,500.0,100.0,2
+EVENT ONLY LUNCH,2.0,500.0,250.0,2
+Dal Rice [SC],5.0,500.0,100.0,5
 Samosa - Single Piece .,7.0,497.0,71.0,2
 Chana Moong Chatpata Salad .,2.0,490.0,245.0,2
 Masala Khichdi [SC],4.0,480.0,120.0,1
 Double Tadka Dal Khichdi With Dahi Fry & Papad,2.0,478.0,239.0,2
-French Fries [O],3.0,477.0,159.0,3
 Mini Batata Vada (6 Pc),3.0,477.0,159.0,2
+French Fries [O],3.0,477.0,159.0,3
 Aloo Methi Paratha [O],2.0,470.0,235.0,2
 Gobi Paratha [O],2.0,470.0,235.0,1
 Tava Pulao,2.0,458.0,229.0,2
-ONLY DINNER,2.0,450.0,225.0,2
-EVENT ONLY DINNER,2.0,450.0,225.0,2
 MILK HALF GLASS,18.0,450.0,25.0,1
 thali,3.0,450.0,150.0,3
+ONLY DINNER,2.0,450.0,225.0,2
+EVENT ONLY DINNER,2.0,450.0,225.0,2
 Mumbai Chowpatty Chana Chat .,2.0,438.0,219.0,2
 Staff Tea [sc],29.0,435.0,15.0,18
 EVENT THALI FIX,3.0,429.0,143.0,3
@@ -655,16 +655,16 @@ papad,40.0,400.0,10.0,1
 Resmi Paneer [O],1.0,399.0,399.0,1
 Pav Bhaji,2.0,398.0,199.0,2
 Dabeli (1 Pc),6.0,396.0,66.0,4
-Samosa Single Piece [O],6.0,390.0,65.0,3
 Nachani Roti (1 Pc),6.0,390.0,65.0,4
+Samosa Single Piece [O],6.0,390.0,65.0,3
 Special Pulao Thali .,1.0,389.0,389.0,1
-Special Rice Thali [O],1.0,389.0,389.0,1
 Fasting Thali .,1.0,389.0,389.0,1
+Special Rice Thali [O],1.0,389.0,389.0,1
 Samosa [O],3.0,387.0,129.0,3
 EVENT ONE DAY PAYMENT,1.0,381.0,381.0,1
 Executive Thali .,1.0,379.0,379.0,1
-Patta Kobi Sabji With Phulka Roti & Dal Rice [O],1.0,377.0,377.0,1
 Dahiwala Bhindi Sabji With Phulka Roti [O],1.0,377.0,377.0,1
+Patta Kobi Sabji With Phulka Roti & Dal Rice [O],1.0,377.0,377.0,1
 Rice Kheer [O],2.0,370.0,185.0,2
 Thali- Dal Dhokli [O],1.0,369.0,369.0,1
 Rajgira Puri (5 Pcs),2.0,366.0,183.0,2
@@ -675,16 +675,16 @@ Cheese Chutney Sandwich,3.0,357.0,119.0,3
 PALAK METHI DALFRY JEERA RICE PARATHA,1.0,350.0,350.0,1
 Gatta Pulav With Veg Raita [O],1.0,344.0,344.0,1
 Classic Maggi [O],2.0,342.0,171.0,2
-Fansi Dhokdi Sabji With Phulka Roti [O],1.0,340.0,340.0,1
 Aloo - Pyaz Sabji With Phulka Roti & Dal Rice [O],1.0,340.0,340.0,1
 Matki (Math) Ki Sabji With Phulka Roti & Dal Rice [O],1.0,340.0,340.0,1
+Fansi Dhokdi Sabji With Phulka Roti [O],1.0,340.0,340.0,1
 Kadai Paneer[hh],1.0,339.0,339.0,1
 Jain Rice Khichiyu,2.0,338.0,169.0,2
 Jain Methi Thepla With Dahi (4 Pcs),3.0,327.0,109.0,3
 Healthy Jawar Pizza [O],1.0,323.0,323.0,1
-Aloo Methi Sabji With Phulka Roti [O],1.0,322.0,322.0,1
-Sev Tomato Sabji With Phulka Roti [O],1.0,322.0,322.0,1
 Dahi Bhindi Sabji With Phulka Roti & Dal Rice [O],1.0,322.0,322.0,1
+Sev Tomato Sabji With Phulka Roti [O],1.0,322.0,322.0,1
+Aloo Methi Sabji With Phulka Roti [O],1.0,322.0,322.0,1
 Moong Dal Bhajiya,2.0,318.0,159.0,2
 Moong Dal Bhajiya.,2.0,318.0,159.0,2
 Mini Batata Vada (6 Pcs),2.0,318.0,159.0,1
@@ -694,10 +694,10 @@ Dry Chatpata Chana Masala Sabji With Phulka Roti & Dal Rice [O],1.0,312.0,312.0,
 punjabi thali,1.0,309.0,309.0,1
 Marvadi Kadi With Chilka Wali Moong Dal Khichdi [O],1.0,303.0,303.0,1
 Nachani Roti [O],2.0,302.0,151.0,2
+banana,3.0,300.0,100.0,1
 BANANA - 12 PC,3.0,300.0,100.0,1
 Banana 12 pc,3.0,300.0,100.0,1
 Ghee Aloo Paratha (1 Piece),3.0,300.0,100.0,2
-banana,3.0,300.0,100.0,1
 Fajeto Meal .,1.0,299.0,299.0,1
 Chana Masala .,1.0,299.0,299.0,1
 Kanda Methi Bhaji [O],1.0,298.0,298.0,1
@@ -713,39 +713,39 @@ masala chai,3.0,280.0,93.33,3
 idli,2.0,280.0,140.0,1
 Dal Khichdi Bowl .,1.0,279.0,279.0,1
 Lasooni Dal Fry Rice Bowl .,1.0,279.0,279.0,1
-Rajma Chawal Rice Bowl .,1.0,279.0,279.0,1
-Chole Masala Rice Bowl .,1.0,279.0,279.0,1
 Paneer Bhurji Rice Bowl .,1.0,279.0,279.0,1
+Chole Masala Rice Bowl .,1.0,279.0,279.0,1
+Rajma Chawal Rice Bowl .,1.0,279.0,279.0,1
 Jain Gujarati Dal Rice [O],1.0,276.0,276.0,1
+Simala Mirchi - Bataka Sabji [O],1.0,275.0,275.0,1
 Ringada Bataka Sabji [O],1.0,275.0,275.0,1
 Vegetable Biryani With Veg Raita (With Paneer),1.0,275.0,275.0,1
-Simala Mirchi - Bataka Sabji [O],1.0,275.0,275.0,1
 Extra Pav [O],8.0,271.0,33.88,8
 paneer partha,1.0,265.0,265.0,1
-French Fries (Salted),2.0,260.0,130.0,2
 Makkai Roti (1 Pc),4.0,260.0,65.0,4
 Egg Gotala [SC],2.0,260.0,130.0,1
+French Fries (Salted),2.0,260.0,130.0,2
 Mix Vegetable (Jain),1.0,259.0,259.0,1
 Jain Steam Muthia With Green Chutney [O],1.0,254.0,254.0,1
 ONLY LUNCH,1.0,250.0,250.0,1
 CURD,10.0,250.0,25.0,8
+Kathiyawadi Sev Tamatar Ki Sabji (Rajasthani Special),1.0,249.0,249.0,1
+Jain Besan Gatta,1.0,249.0,249.0,1
 Besan Gatta Sabji,1.0,249.0,249.0,1
 Kathiyawadi Sev Tamatar Ki Sabji,1.0,249.0,249.0,1
-Jain Besan Gatta,1.0,249.0,249.0,1
-Kathiyawadi Sev Tamatar Ki Sabji (Rajasthani Special),1.0,249.0,249.0,1
 Aamras 300 Ml .,1.0,244.0,244.0,1
 Varan Bhat .,1.0,244.0,244.0,1
 Misal Pav .,1.0,244.0,244.0,1
-Chass [sc],8.0,240.0,30.0,5
 Jeera Paratha [O],2.0,240.0,120.0,2
-Masala Bhakhari [O],1.0,239.0,239.0,1
+Chass [sc],8.0,240.0,30.0,5
 jeera bhakhari,1.0,239.0,239.0,1
+Masala Bhakhari [O],1.0,239.0,239.0,1
 Event ONLY Lunch Thali,1.0,238.0,238.0,1
-event dinner,1.0,238.0,238.0,1
-event only dinner,1.0,238.0,238.0,1
 ONLY DINNER EVENT,1.0,238.0,238.0,1
+event dinner,1.0,238.0,238.0,1
 Vegetable Cheese Sandwich,2.0,238.0,119.0,2
 event lunch,1.0,238.0,238.0,1
+event only dinner,1.0,238.0,238.0,1
 Puran Poli (1 Pc),3.0,237.0,79.0,2
 Aloo Gobi Paratha [O],1.0,235.0,235.0,1
 White Dhokla .,1.0,234.0,234.0,1
@@ -759,11 +759,11 @@ Sprouts Salad - Moong [O],1.0,213.0,213.0,1
 Bread Jam [SC],7.0,210.0,30.0,3
 Jain Panki (2 Pcs),1.0,209.0,209.0,1
 BREAD OMELATTE,2.0,200.0,100.0,1
+only lunch fix thali,1.0,200.0,200.0,1
 EXTRA PAV MASALA,8.0,200.0,25.0,2
 LUNCH THALI FIX,1.0,200.0,200.0,1
 fix thali event,1.0,200.0,200.0,1
 Hot Milk [SC],4.0,200.0,50.0,4
-only lunch fix thali,1.0,200.0,200.0,1
 Cheese Margherita Pizza,1.0,195.0,195.0,1
 Veggie Farm Fresh Pizza [O],1.0,195.0,195.0,1
 EVENT DINNER,1.0,190.0,190.0,1
@@ -773,59 +773,59 @@ Phulka Roti,9.0,180.0,20.0,1
 Chana Chat [O],1.0,180.0,180.0,1
 masala khichya,2.0,178.0,89.0,2
 Masala Khichiya,6.0,174.0,29.0,5
-Dal Besan Chilla,1.0,169.0,169.0,1
 Koki Paratha With Curd (2 Pc),1.0,169.0,169.0,1
+Dal Besan Chilla,1.0,169.0,169.0,1
 Methi Thepla (2 Pcs),3.0,162.0,54.0,2
 Papad Churi .,1.0,159.0,159.0,1
 Paneer Cheese Toast Sandwich [O],1.0,158.0,158.0,1
 Veg Cheese Toast Sandwich [O],1.0,158.0,158.0,1
 idli sambhar,3.0,157.0,52.33,2
-Makkai Roti [O],1.0,151.0,151.0,1
 Chokha (Rice) Roti [O],1.0,151.0,151.0,1
-Pasta,3.0,150.0,50.0,1
-Biscuits [sc],15.0,150.0,10.0,9
-Chutney Sandwich [SC],5.0,150.0,30.0,5
+Makkai Roti [O],1.0,151.0,151.0,1
 Miranda 400ml [o],7.0,150.0,21.43,6
 French Fries (Peri Peri),1.0,150.0,150.0,1
 Jain Poha (Jain Preparation) [O],1.0,150.0,150.0,1
 salad,1.0,150.0,150.0,1
+Pasta,3.0,150.0,50.0,1
+Biscuits [sc],15.0,150.0,10.0,9
+Chutney Sandwich [SC],5.0,150.0,30.0,5
 upma,3.0,144.0,48.0,3
 Samosa (1 Pc),2.0,142.0,71.0,2
 French fries,1.0,130.0,130.0,1
 7up 400ml [o],5.0,130.0,26.0,4
 masala puri,1.0,124.0,124.0,1
 ROTI SABJI ONLY,1.0,120.0,120.0,1
+Veg Fried Rice [SC],1.0,120.0,120.0,1
+Pepsi 400ml [o],5.0,120.0,24.0,3
+Sabji Roti [SC],1.0,120.0,120.0,1
 Dal Khichdi [SC],1.0,120.0,120.0,1
 THALI,1.0,120.0,120.0,1
-Pepsi 400ml [o],5.0,120.0,24.0,3
-Veg Fried Rice [SC],1.0,120.0,120.0,1
-Sabji Roti [SC],1.0,120.0,120.0,1
 Vegetable Cheese Sandwich [O],1.0,119.0,119.0,1
 Kutchi Dabeli [1 Pc],2.0,118.0,59.0,2
-PURI SABJI ONLY,1.0,114.0,114.0,1
 ONLY SABJI ROTI,1.0,114.0,114.0,1
+PURI SABJI ONLY,1.0,114.0,114.0,1
 Mix Salad [SC],1.0,110.0,110.0,1
-BREAD 1 PKT,1.0,110.0,110.0,1
 Bread 1 pkt,1.0,110.0,110.0,1
+BREAD 1 PKT,1.0,110.0,110.0,1
 GREEN CHUTNEY,1.0,100.0,100.0,1
 bread omelette,1.0,100.0,100.0,1
-masala cheese maggie,1.0,90.0,90.0,1
 Nimbu Pani [sc],3.0,90.0,30.0,1
-Phulka Roti [SC],4.0,80.0,20.0,2
-pickel,1.0,80.0,80.0,1
+masala cheese maggie,1.0,90.0,90.0,1
 Masala Tea,4.0,80.0,20.0,1
 Peanut Butter Sandwich [SC],1.0,80.0,80.0,1
+Phulka Roti [SC],4.0,80.0,20.0,2
+pickel,1.0,80.0,80.0,1
 makai roti,1.0,70.0,70.0,1
 Nachni Roti (1 Pc),1.0,70.0,70.0,1
 Misal Pav [SC],1.0,70.0,70.0,1
-Green Salad [SC],1.0,70.0,70.0,1
-CHEESE CHUTNEY SANDWICH,1.0,70.0,70.0,1
 chai,1.0,70.0,70.0,1
 Rice Rotla (1 Pc),1.0,70.0,70.0,1
+Green Salad [SC],1.0,70.0,70.0,1
+CHEESE CHUTNEY SANDWICH,1.0,70.0,70.0,1
 tea,1.0,69.0,69.0,1
+Garlic chutney,2.0,60.0,30.0,1
 pepsi,2.0,60.0,30.0,1
 mirchi kuta,2.0,60.0,30.0,1
-Garlic chutney,2.0,60.0,30.0,1
 ONLY SABJI,1.0,48.0,48.0,1
 SEVAIYAN,1.0,48.0,48.0,1
 BREAD PAKODA,1.0,40.0,40.0,1
