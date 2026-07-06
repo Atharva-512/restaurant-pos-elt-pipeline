@@ -800,13 +800,15 @@ It helps others discover the project and motivates future improvements.
 
 ---
 
+---
+
 # Closing Notes
 
-This repository reflects my approach to building data engineering projects—from raw data ingestion and layered transformations to analytical modelling and business reporting.
+This repository reflects my approach to building data engineering projects—from raw data ingestion and layered transformations to analytical modeling and business reporting.
 
-While the current implementation focuses on restaurant POS analytics, the architecture is intentionally modular and can be adapted to similar reporting workflows with minimal changes.
+While the current implementation focuses on restaurant POS analytics, the architecture is intentionally modular and can be adapted to similar operational reporting workflows with relatively minor changes.
 
-If you have feedback, suggestions or questions about the implementation, feel free to open an issue or connect with me.
+If you have any questions, feedback or suggestions about the implementation, feel free to open an issue or get in touch.
 
 ---
 
