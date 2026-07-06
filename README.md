@@ -788,14 +788,6 @@ If you find an issue or have ideas for extending the project, feel free to open 
 
 ---
 
-# License
-
-This project is licensed under the MIT License.
-
-See the `LICENSE` file for additional information.
-
----
-
 <div align="center">
 
 ### Thanks for taking the time to explore this project.
