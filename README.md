@@ -797,3 +797,23 @@ If you found it useful or interesting, consider giving the repository a ⭐.
 It helps others discover the project and motivates future improvements.
 
 </div>
+
+---
+
+# Closing Notes
+
+This repository reflects my approach to building data engineering projects—from raw data ingestion and layered transformations to analytical modelling and business reporting.
+
+While the current implementation focuses on restaurant POS analytics, the architecture is intentionally modular and can be adapted to similar reporting workflows with minimal changes.
+
+If you have feedback, suggestions or questions about the implementation, feel free to open an issue or connect with me.
+
+---
+
+<div align="center">
+
+**Thanks for visiting the repository!**
+
+If you found this project interesting, consider giving it a ⭐.
+
+</div>
