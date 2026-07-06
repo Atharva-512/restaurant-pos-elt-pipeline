@@ -1,0 +1,38 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.git/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Jupyter
+notebooks/
+.ipynb_checkpoints/
+
+# Tests
+tests/
+
+# Documentation
+docs/
+
+# Power BI
+powerbi/
+
+# Logs
+logs/
+
+# Environment
+.env
+
+# Build
+*.log

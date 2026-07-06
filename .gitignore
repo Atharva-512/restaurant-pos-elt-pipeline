@@ -16,8 +16,8 @@ __pycache__/
 .vscode/
 
 # Logs
-logs/
-*.log
+logs/*
+!logs/.gitkeep
 
 # Jupyter
 .ipynb_checkpoints/
@@ -27,3 +27,21 @@ data/bronze/
 data/silver/
 data/gold/
 data/metadata/
+
+# Environment
+.env
+
+# Docker
+docker-compose.override.yml
+
+# Docker Cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# IDE
+.idea/
+
+Thumbs.db
+
+*.swp

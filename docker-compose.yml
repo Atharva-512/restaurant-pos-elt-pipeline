@@ -1,0 +1,27 @@
+services:
+  restaurant-pos-pipeline:
+
+    container_name: restaurant-pos-pipeline
+
+    image: restaurant-pos-elt-pipeline:latest
+
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    working_dir: /app
+
+    volumes:
+      - .:/app
+
+    env_file:
+      - .env
+
+    environment:
+      PYTHONUNBUFFERED: "1"
+      PYTHONDONTWRITEBYTECODE: "1"
+
+    stdin_open: true
+    tty: true
+
+    restart: "no"
